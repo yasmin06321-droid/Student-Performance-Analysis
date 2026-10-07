@@ -1,0 +1,2001 @@
+Student_ID,Student_Name,Department,Semester,Attendance,Marks,Assignments_Submitted,Absentees,Risk_Level
+1,Pranav Nair,EEE,5,94,85,4,3,Medium Risk
+2,Shalini Mehta,EEE,5,59,62,5,5,Medium Risk
+3,Manoj Kumar,IT,5,97,70,2,3,Medium Risk
+4,Simran Choudhary,ECE,5,78,59,1,4,Medium Risk
+5,Snehal Kapoor,CSE,5,99,29,5,3,Medium Risk
+6,Jay Choudhary,CSE,5,54,36,4,0,High Risk
+7,Zoya Shah,CSE,5,73,35,6,5,High Risk
+8,Tanvi Mathur,EEE,5,69,47,6,3,Medium Risk
+9,Siddharth Gupta,ECE,5,59,45,1,1,Medium Risk
+10,Rekha Saxena,IT,5,58,31,2,1,High Risk
+11,Naveen Kapoor,CSE,5,69,48,4,2,Medium Risk
+12,Noor Nair,ECE,5,90,63,5,0,Safe
+13,Rohini Reddy,CSE,5,98,49,4,2,Safe
+14,Naveen Malhotra,EEE,5,53,77,5,2,Medium Risk
+15,Rohan Das,IT,5,71,44,1,0,Medium Risk
+16,Ishita Sharma,ECE,5,66,94,4,2,Medium Risk
+17,Deepak Saxena,IT,5,71,75,3,3,Medium Risk
+18,Naveen Kapoor,EEE,5,63,27,1,2,High Risk
+19,Manoj Joshi,CSE,5,96,76,3,4,Medium Risk
+20,Rajesh Reddy,IT,5,67,98,1,4,Medium Risk
+21,Dinesh Bhat,ECE,5,69,83,6,2,Medium Risk
+22,Meera Singh,IT,5,80,69,2,3,Medium Risk
+23,Lokesh Jain,EEE,5,95,33,2,2,Safe
+24,Manoj Jain,EEE,5,88,66,2,5,Medium Risk
+25,Anu Sharma,ECE,5,54,26,3,4,High Risk
+26,Abhishek Reddy,IT,5,82,91,4,5,Medium Risk
+27,Sahil Bhat,ECE,5,88,82,3,2,Safe
+28,Aakash Singh,ECE,5,98,61,6,0,Safe
+29,Farah Chopra,ECE,5,83,77,5,1,Safe
+30,Lokesh Malhotra,CSE,5,75,81,6,3,Medium Risk
+31,Yash Joshi,ECE,5,59,84,1,3,Medium Risk
+32,Meera Shah,ECE,5,61,31,3,4,High Risk
+33,Dev Chopra,IT,5,74,45,4,5,Medium Risk
+34,Ishita Verma,IT,5,100,37,3,4,Medium Risk
+35,Ankita Mehta,CSE,5,83,25,6,2,Safe
+36,Sakshi Mehta,ECE,5,87,65,3,4,Medium Risk
+37,Ajay Nair,IT,5,80,40,5,5,Medium Risk
+38,Varun Singh,ECE,5,100,93,6,0,Safe
+39,Jay Sharma,IT,5,76,71,2,4,Medium Risk
+40,Rahul Kumar,ECE,5,84,33,2,3,Medium Risk
+41,Naresh Chopra,CSE,5,79,55,2,5,Medium Risk
+42,Ravi Kumar,ECE,5,91,35,1,0,Safe
+43,Karthik Verma,CSE,5,99,33,4,2,Safe
+44,Simran Reddy,CSE,5,57,73,3,3,Medium Risk
+45,Zoya Choudhary,EEE,5,77,42,3,3,Medium Risk
+46,Lalit Bhat,ECE,5,56,63,2,2,Medium Risk
+47,Aditya Joshi,EEE,5,94,55,2,1,Safe
+48,Noor Sharma,CSE,5,50,49,5,3,Medium Risk
+49,Rahul Verma,IT,5,84,89,6,4,Medium Risk
+50,Nisha Patel,EEE,5,95,32,4,0,Safe
+51,Karthik Sharma,EEE,5,60,36,5,1,High Risk
+52,Rahul Joshi,EEE,5,98,60,5,5,Medium Risk
+53,Ravi Shah,CSE,5,76,55,6,5,Medium Risk
+54,Kiran Choudhary,ECE,5,81,46,4,0,Safe
+55,Suman Jain,EEE,5,90,99,2,3,Medium Risk
+56,Meera Jain,EEE,5,69,88,6,5,Medium Risk
+57,Pranav Reddy,EEE,5,90,50,1,4,Medium Risk
+58,Naresh Saxena,EEE,5,72,52,3,3,Medium Risk
+59,Ila Mehta,IT,5,63,56,2,2,Medium Risk
+60,Kavya Saxena,IT,5,77,70,3,1,Safe
+61,Ajay Shah,IT,5,71,69,3,1,Medium Risk
+62,Suresh Gupta,IT,5,76,79,3,2,Safe
+63,Anu Gupta,IT,5,83,32,5,3,Medium Risk
+64,Nikhil Kapoor,IT,5,89,79,4,3,Medium Risk
+65,Kriti Saxena,ECE,5,68,72,4,0,Medium Risk
+66,Ravi Jain,IT,5,59,37,6,0,High Risk
+67,Suresh Mathur,IT,5,89,65,2,3,Medium Risk
+68,Ajay Patel,ECE,5,89,34,3,2,Safe
+69,Apoorva Choudhary,EEE,5,51,73,4,2,Medium Risk
+70,Meera Kumar,IT,5,68,60,3,2,Medium Risk
+71,Farah Singh,EEE,5,74,85,2,1,Medium Risk
+72,Priti Bhat,IT,5,54,87,5,4,Medium Risk
+73,Sunil Das,EEE,5,88,27,5,1,Safe
+74,Keerthi Mathur,IT,5,60,82,3,1,Medium Risk
+75,Zoya Patel,IT,5,81,100,6,4,Medium Risk
+76,Meera Das,CSE,5,75,44,5,0,Safe
+77,Kishore Mehta,ECE,5,60,50,6,2,Medium Risk
+78,Alina Malhotra,EEE,5,71,40,4,5,Medium Risk
+79,Nisha Malhotra,ECE,5,52,79,3,3,Medium Risk
+80,Shubham Joshi,IT,5,99,45,5,2,Safe
+81,Varun Nair,CSE,5,78,88,2,4,Medium Risk
+82,Suresh Kumar,EEE,5,93,42,5,3,Medium Risk
+83,Vikram Chopra,EEE,5,51,44,2,2,Medium Risk
+84,Naresh Gupta,IT,5,77,95,4,1,Safe
+85,Akash Verma,EEE,5,71,28,6,5,High Risk
+86,Ishita Verma,CSE,5,100,30,2,1,Safe
+87,Swathi Bhat,CSE,5,65,47,3,0,Medium Risk
+88,Noor Mehta,IT,5,82,40,4,0,Safe
+89,Ankita Choudhary,IT,5,76,38,1,2,Safe
+90,Akash Sharma,CSE,5,87,90,1,2,Safe
+91,Arjun Gupta,IT,5,86,45,4,2,Safe
+92,Zoya Verma,CSE,5,55,95,3,1,Medium Risk
+93,Simran Verma,ECE,5,78,66,2,3,Medium Risk
+94,Aditya Chopra,IT,5,72,27,3,2,High Risk
+95,Apoorva Mathur,EEE,5,50,73,6,3,Medium Risk
+96,Anu Kumar,CSE,5,55,31,6,0,High Risk
+97,Bharti Verma,IT,5,67,74,3,3,Medium Risk
+98,Priti Saxena,EEE,5,83,89,2,2,Safe
+99,Zoya Malhotra,IT,5,85,96,1,3,Medium Risk
+100,Tarun Kapoor,IT,5,61,36,6,1,High Risk
+101,Ramesh Patel,ECE,5,89,91,2,0,Safe
+102,Harsha Joshi,ECE,5,96,70,6,3,Medium Risk
+103,Harsha Kapoor,EEE,5,71,27,4,0,High Risk
+104,Shreya Malhotra,CSE,5,100,44,3,4,Medium Risk
+105,Naveen Mehta,EEE,5,98,36,5,4,Medium Risk
+106,Aishwarya Mathur,EEE,5,55,75,4,1,Medium Risk
+107,Divya Mathur,IT,5,90,61,3,2,Safe
+108,Meera Saxena,EEE,5,59,47,2,4,Medium Risk
+109,Naresh Malhotra,ECE,5,52,47,1,5,Medium Risk
+110,Sakshi Mehta,ECE,5,98,31,2,4,Medium Risk
+111,Rohit Joshi,CSE,5,86,72,1,3,Medium Risk
+112,Alina Sharma,EEE,5,78,82,6,1,Safe
+113,Suresh Jain,IT,5,99,44,1,1,Safe
+114,Anu Joshi,CSE,5,89,72,3,0,Safe
+115,Apoorva Kapoor,ECE,5,53,60,2,2,Medium Risk
+116,Vikram Das,ECE,5,57,69,5,5,Medium Risk
+117,Farhan Shah,EEE,5,70,87,6,5,Medium Risk
+118,Venu Saxena,EEE,5,77,89,1,1,Safe
+119,Preethi Bhat,EEE,5,97,80,3,1,Safe
+120,Lokesh Gupta,CSE,5,64,87,4,4,Medium Risk
+121,Monika Choudhary,CSE,5,89,59,5,2,Safe
+122,Noor Saxena,EEE,5,75,83,4,1,Safe
+123,Rahul Bhat,EEE,5,70,83,2,5,Medium Risk
+124,Umesh Reddy,IT,5,63,34,5,0,High Risk
+125,Zoya Nair,CSE,5,65,40,2,5,Medium Risk
+126,Aakash Bhat,ECE,5,82,39,6,2,Safe
+127,Anu Saxena,CSE,5,75,38,1,0,Safe
+128,Vikram Sharma,IT,5,55,67,1,2,Medium Risk
+129,Aarav Mehta,CSE,5,74,57,6,1,Medium Risk
+130,Priya Malhotra,CSE,5,82,90,1,1,Safe
+131,Keerthi Das,ECE,5,88,29,6,0,Safe
+132,Kishore Das,CSE,5,70,92,5,4,Medium Risk
+133,Arjun Gupta,IT,5,67,58,5,5,Medium Risk
+134,Simran Gupta,CSE,5,70,41,3,4,Medium Risk
+135,Sunil Choudhary,CSE,5,91,95,6,2,Safe
+136,Suresh Reddy,EEE,5,97,31,1,0,Safe
+137,Pooja Bhat,ECE,5,99,46,6,4,Medium Risk
+138,Sakshi Nair,IT,5,60,61,2,5,Medium Risk
+139,Zoya Joshi,CSE,5,65,77,1,4,Medium Risk
+140,Rajesh Mehta,EEE,5,93,89,6,4,Medium Risk
+141,Dev Choudhary,IT,5,62,43,1,1,Medium Risk
+142,Farhan Kapoor,ECE,5,82,52,4,1,Safe
+143,Deepak Singh,IT,5,82,61,2,5,Medium Risk
+144,Ishita Mathur,IT,5,72,92,2,0,Medium Risk
+145,Anu Singh,EEE,5,54,84,3,2,Medium Risk
+146,Imran Nair,EEE,5,78,68,5,4,Medium Risk
+147,Aarav Mehta,EEE,5,89,34,6,0,Safe
+148,Riya Mathur,CSE,5,99,29,6,1,Safe
+149,Dinesh Mathur,EEE,5,91,39,2,1,Safe
+150,Amit Kapoor,EEE,5,66,42,5,3,Medium Risk
+151,Shreya Reddy,EEE,5,89,84,6,5,Medium Risk
+152,Mahesh Gupta,ECE,5,66,38,1,4,High Risk
+153,Ravi Reddy,CSE,5,93,74,4,2,Safe
+154,Abhishek Das,IT,5,62,28,5,2,High Risk
+155,Aishwarya Saxena,IT,5,59,27,6,2,High Risk
+156,Suresh Joshi,ECE,5,79,74,5,3,Medium Risk
+157,Sneha Kumar,IT,5,75,99,1,0,Safe
+158,Balaji Singh,CSE,5,73,63,6,1,Medium Risk
+159,Naveen Gupta,IT,5,73,59,1,5,Medium Risk
+160,Mahesh Joshi,IT,5,80,36,6,5,Medium Risk
+161,Ankita Kapoor,EEE,5,73,38,1,2,High Risk
+162,Farah Mehta,IT,5,92,39,4,5,Medium Risk
+163,Siddharth Malhotra,ECE,5,60,92,5,1,Medium Risk
+164,Rekha Kumar,ECE,5,79,37,3,4,Medium Risk
+165,Varun Verma,CSE,5,57,48,5,0,Medium Risk
+166,Ajay Kapoor,CSE,5,56,58,6,4,Medium Risk
+167,Suresh Chopra,CSE,5,80,99,2,5,Medium Risk
+168,Zoya Chopra,CSE,5,94,84,4,4,Medium Risk
+169,Sakshi Sharma,EEE,5,68,81,3,0,Medium Risk
+170,Mahesh Bhat,CSE,5,50,99,5,3,Medium Risk
+171,Lalit Sharma,IT,5,72,44,5,5,Medium Risk
+172,Bhavya Kapoor,ECE,5,58,53,3,1,Medium Risk
+173,Sanjay Kapoor,ECE,5,88,94,5,1,Safe
+174,Rahul Patel,EEE,5,58,49,5,5,Medium Risk
+175,Ila Bhat,EEE,5,69,86,3,3,Medium Risk
+176,Kavya Malhotra,IT,5,63,68,3,0,Medium Risk
+177,Farah Verma,IT,5,53,98,1,1,Medium Risk
+178,Nisha Chopra,CSE,5,64,99,5,4,Medium Risk
+179,Sahil Chopra,EEE,5,77,41,4,5,Medium Risk
+180,Kishore Gupta,ECE,5,79,82,5,0,Safe
+181,Bharti Gupta,IT,5,95,47,4,2,Safe
+182,Shreya Jain,ECE,5,62,79,4,2,Medium Risk
+183,Sahil Singh,EEE,5,69,73,1,5,Medium Risk
+184,Kavya Mehta,IT,5,78,43,6,4,Medium Risk
+185,Lalit Saxena,CSE,5,60,26,5,1,High Risk
+186,Girish Bhat,EEE,5,52,55,2,4,Medium Risk
+187,Naresh Nair,ECE,5,92,28,4,3,Medium Risk
+188,Arjun Gupta,CSE,5,84,28,1,4,Medium Risk
+189,Karan Nair,IT,5,80,78,1,0,Safe
+190,Priya Chopra,EEE,5,85,59,2,5,Medium Risk
+191,Vikram Nair,IT,5,59,45,6,0,Medium Risk
+192,Sneha Saxena,IT,5,96,92,5,2,Safe
+193,Amit Kumar,IT,5,61,34,5,3,High Risk
+194,Karthik Chopra,EEE,5,85,54,6,3,Medium Risk
+195,Farah Sharma,ECE,5,97,36,5,3,Medium Risk
+196,Snehal Kumar,CSE,5,75,50,2,3,Medium Risk
+197,Jay Mathur,EEE,5,98,52,6,5,Medium Risk
+198,Preethi Das,IT,5,99,40,2,1,Safe
+199,Ajay Shah,ECE,5,80,57,2,1,Safe
+200,Balaji Singh,CSE,5,88,39,1,4,Medium Risk
+201,Keerthi Kapoor,CSE,5,54,64,3,1,Medium Risk
+202,Venu Mathur,IT,5,54,69,5,3,Medium Risk
+203,Priti Chopra,EEE,5,74,58,2,2,Medium Risk
+204,Alina Saxena,EEE,5,83,56,2,4,Medium Risk
+205,Kriti Gupta,CSE,5,73,79,4,4,Medium Risk
+206,Jay Reddy,CSE,5,73,93,6,4,Medium Risk
+207,Tanvi Mathur,EEE,5,84,98,1,4,Medium Risk
+208,Naveen Kumar,ECE,5,75,83,5,3,Medium Risk
+209,Farhan Kapoor,ECE,5,62,51,1,0,Medium Risk
+210,Swathi Mehta,ECE,5,94,66,3,1,Safe
+211,Dev Chopra,CSE,5,68,78,6,5,Medium Risk
+212,Divya Das,CSE,5,94,57,3,1,Safe
+213,Nisha Saxena,IT,5,82,47,1,1,Safe
+214,Noor Kumar,IT,5,50,58,4,2,Medium Risk
+215,Ankita Shah,IT,5,63,37,2,2,High Risk
+216,Pankaj Nair,ECE,5,52,100,3,4,Medium Risk
+217,Kiran Mathur,CSE,5,53,68,5,0,Medium Risk
+218,Divya Kumar,ECE,5,96,52,2,3,Medium Risk
+219,Ajay Kapoor,CSE,5,98,47,6,2,Safe
+220,Arjun Saxena,CSE,5,74,37,1,2,High Risk
+221,Manoj Shah,CSE,5,75,80,6,0,Safe
+222,Mahesh Kapoor,CSE,5,66,91,2,0,Medium Risk
+223,Anu Malhotra,IT,5,90,83,2,5,Medium Risk
+224,Rekha Kumar,ECE,5,84,67,3,4,Medium Risk
+225,Amit Choudhary,ECE,5,100,64,6,5,Medium Risk
+226,Ramesh Shah,EEE,5,74,82,1,4,Medium Risk
+227,Rekha Bhat,CSE,5,78,93,1,2,Safe
+228,Lavanya Jain,ECE,5,60,94,5,0,Medium Risk
+229,Nisha Saxena,ECE,5,59,47,2,2,Medium Risk
+230,Amit Patel,ECE,5,53,30,5,1,High Risk
+231,Pankaj Reddy,CSE,5,81,92,4,2,Safe
+232,Preethi Gupta,IT,5,66,40,5,5,Medium Risk
+233,Kiran Verma,CSE,5,72,97,1,2,Medium Risk
+234,Pankaj Singh,CSE,5,86,47,5,0,Safe
+235,Pooja Nair,ECE,5,67,27,1,5,High Risk
+236,Neha Das,CSE,5,76,81,6,0,Safe
+237,Rohan Jain,IT,5,97,56,1,3,Medium Risk
+238,Keerthi Kapoor,IT,5,100,66,1,3,Medium Risk
+239,Divya Kapoor,EEE,5,86,46,6,0,Safe
+240,Pooja Singh,IT,5,82,35,3,4,Medium Risk
+241,Suraj Verma,IT,5,88,44,4,1,Safe
+242,Aarav Kapoor,ECE,5,97,36,3,5,Medium Risk
+243,Neha Chopra,CSE,5,78,25,2,0,Safe
+244,Kunal Mathur,ECE,5,100,72,6,5,Medium Risk
+245,Kriti Nair,ECE,5,93,64,6,0,Safe
+246,Simran Malhotra,IT,5,80,55,6,0,Safe
+247,Ananya Bhat,ECE,5,62,47,1,5,Medium Risk
+248,Monika Sharma,ECE,5,89,70,2,5,Medium Risk
+249,Naveen Malhotra,EEE,5,75,62,1,4,Medium Risk
+250,Pallavi Patel,CSE,5,52,42,6,4,Medium Risk
+251,Ajay Kumar,IT,5,62,84,6,1,Medium Risk
+252,Aarav Nair,CSE,5,69,48,5,4,Medium Risk
+253,Amit Kapoor,ECE,5,68,79,5,1,Medium Risk
+254,Lalit Mehta,CSE,5,51,97,1,4,Medium Risk
+255,Ila Chopra,ECE,5,57,33,2,1,High Risk
+256,Aditya Kumar,ECE,5,59,58,1,3,Medium Risk
+257,Irfan Jain,CSE,5,53,87,5,4,Medium Risk
+258,Tejas Joshi,IT,5,67,37,6,3,High Risk
+259,Pankaj Mehta,EEE,5,65,55,1,2,Medium Risk
+260,Ravi Verma,IT,5,97,52,2,3,Medium Risk
+261,Suman Shah,IT,5,79,27,6,0,Safe
+262,Sanjay Mathur,EEE,5,92,73,1,2,Safe
+263,Sunil Nair,IT,5,57,68,1,4,Medium Risk
+264,Pooja Kapoor,EEE,5,85,50,2,1,Safe
+265,Karan Kapoor,ECE,5,51,29,3,5,High Risk
+266,Sneha Mathur,CSE,5,58,79,5,5,Medium Risk
+267,Ishita Joshi,ECE,5,56,99,3,5,Medium Risk
+268,Simran Mehta,ECE,5,50,37,3,4,High Risk
+269,Komal Reddy,EEE,5,63,62,4,2,Medium Risk
+270,Dinesh Gupta,ECE,5,89,72,5,1,Safe
+271,Mitali Saxena,ECE,5,73,57,4,2,Medium Risk
+272,Ananya Reddy,CSE,5,86,75,1,0,Safe
+273,Varun Kapoor,IT,5,60,96,5,0,Medium Risk
+274,Venu Patel,IT,5,78,82,4,0,Safe
+275,Sunil Shah,IT,5,61,51,6,3,Medium Risk
+276,Aakash Joshi,EEE,5,79,65,4,4,Medium Risk
+277,Tejas Singh,EEE,5,77,30,4,4,Medium Risk
+278,Divya Jain,ECE,5,56,93,6,0,Medium Risk
+279,Kishore Gupta,CSE,5,58,99,1,4,Medium Risk
+280,Kunal Jain,CSE,5,78,32,4,2,Safe
+281,Ananya Singh,IT,5,72,72,1,0,Medium Risk
+282,Mahesh Jain,CSE,5,97,96,5,0,Safe
+283,Shubham Kumar,CSE,5,80,100,1,5,Medium Risk
+284,Farhan Saxena,EEE,5,50,94,6,0,Medium Risk
+285,Nikhil Sharma,CSE,5,81,76,4,5,Medium Risk
+286,Neha Shah,EEE,5,67,64,4,5,Medium Risk
+287,Akash Patel,EEE,5,81,91,3,3,Medium Risk
+288,Kavya Choudhary,ECE,5,99,82,2,5,Medium Risk
+289,Farhan Mehta,ECE,5,56,38,4,3,High Risk
+290,Pallavi Sharma,CSE,5,92,34,5,3,Medium Risk
+291,Suman Malhotra,EEE,5,71,86,3,2,Medium Risk
+292,Ramesh Bhat,ECE,5,84,70,3,2,Safe
+293,Sakshi Mehta,IT,5,81,89,1,4,Medium Risk
+294,Deepak Sharma,EEE,5,77,100,1,4,Medium Risk
+295,Yash Kapoor,CSE,5,59,47,5,1,Medium Risk
+296,Rahul Gupta,IT,5,74,52,2,5,Medium Risk
+297,Shalini Kumar,CSE,5,64,54,5,2,Medium Risk
+298,Preethi Jain,ECE,5,88,33,4,1,Safe
+299,Apoorva Choudhary,IT,5,71,55,3,0,Medium Risk
+300,Vikram Choudhary,IT,5,61,53,1,3,Medium Risk
+301,Rajesh Choudhary,ECE,5,81,79,6,2,Safe
+302,Meera Singh,ECE,5,59,59,4,5,Medium Risk
+303,Alina Chopra,ECE,5,96,25,4,4,Medium Risk
+304,Lalit Shah,IT,5,88,78,2,3,Medium Risk
+305,Venu Reddy,ECE,5,71,52,3,5,Medium Risk
+306,Monika Chopra,IT,5,94,64,1,0,Safe
+307,Pawan Bhat,ECE,5,86,54,2,1,Safe
+308,Suresh Mathur,ECE,5,96,33,3,2,Safe
+309,Shubham Singh,IT,5,58,64,5,5,Medium Risk
+310,Kunal Singh,EEE,5,93,56,1,0,Safe
+311,Lalit Kumar,EEE,5,81,94,2,3,Medium Risk
+312,Vikram Mehta,CSE,5,51,65,1,2,Medium Risk
+313,Mohan Singh,ECE,5,98,33,5,3,Medium Risk
+314,Anu Chopra,IT,5,81,40,5,5,Medium Risk
+315,Nikhil Kumar,EEE,5,98,51,5,3,Medium Risk
+316,Lokesh Mehta,IT,5,62,65,3,3,Medium Risk
+317,Pallavi Sharma,EEE,5,66,31,3,5,High Risk
+318,Suresh Shah,IT,5,53,64,3,0,Medium Risk
+319,Ankita Shah,CSE,5,53,48,1,4,Medium Risk
+320,Aakash Saxena,IT,5,63,54,2,2,Medium Risk
+321,Irfan Patel,IT,5,84,52,5,1,Safe
+322,Karthik Bhat,CSE,5,84,41,1,3,Medium Risk
+323,Siddharth Chopra,IT,5,70,67,1,5,Medium Risk
+324,Lavanya Verma,EEE,5,66,40,3,4,Medium Risk
+325,Rohini Joshi,IT,5,50,38,5,1,High Risk
+326,Pallavi Shah,ECE,5,72,93,5,2,Medium Risk
+327,Dev Sharma,EEE,5,94,98,1,3,Medium Risk
+328,Suresh Patel,CSE,5,53,100,5,2,Medium Risk
+329,Deepak Chopra,ECE,5,57,77,5,2,Medium Risk
+330,Suman Joshi,CSE,5,63,32,6,1,High Risk
+331,Ravi Kapoor,EEE,5,77,74,1,3,Medium Risk
+332,Farah Reddy,CSE,5,68,62,3,3,Medium Risk
+333,Dinesh Malhotra,IT,5,82,83,6,4,Medium Risk
+334,Farah Kapoor,IT,5,81,78,6,1,Safe
+335,Kavya Singh,EEE,5,82,38,4,4,Medium Risk
+336,Harsha Saxena,EEE,5,73,99,2,0,Medium Risk
+337,Rahul Reddy,IT,5,52,40,1,3,Medium Risk
+338,Farhan Joshi,IT,5,52,70,2,4,Medium Risk
+339,Umesh Jain,ECE,5,52,64,2,3,Medium Risk
+340,Sunil Mehta,CSE,5,81,46,3,2,Safe
+341,Preethi Kapoor,ECE,5,93,32,3,4,Medium Risk
+342,Rohini Kapoor,ECE,5,70,78,3,5,Medium Risk
+343,Radhika Mehta,IT,5,91,53,4,1,Safe
+344,Yash Malhotra,CSE,5,94,69,1,4,Medium Risk
+345,Apoorva Saxena,IT,5,76,45,5,0,Safe
+346,Priya Chopra,ECE,5,64,31,4,5,High Risk
+347,Ritu Mathur,EEE,5,89,29,2,0,Safe
+348,Aishwarya Mehta,EEE,5,73,28,6,1,High Risk
+349,Manoj Singh,CSE,5,71,85,5,1,Medium Risk
+350,Amit Sharma,ECE,5,97,69,6,3,Medium Risk
+351,Rohit Sharma,EEE,5,50,99,3,0,Medium Risk
+352,Meera Singh,ECE,5,72,25,2,5,High Risk
+353,Mohan Jain,CSE,5,63,66,6,1,Medium Risk
+354,Abhishek Mehta,ECE,5,59,36,5,4,High Risk
+355,Rajesh Shah,IT,5,96,89,4,1,Safe
+356,Naveen Jain,IT,5,60,45,6,4,Medium Risk
+357,Karan Bhat,EEE,5,54,51,2,2,Medium Risk
+358,Monika Bhat,EEE,5,89,78,3,5,Medium Risk
+359,Vikram Choudhary,CSE,5,56,88,2,4,Medium Risk
+360,Suraj Mehta,EEE,5,81,38,4,3,Medium Risk
+361,Pooja Gupta,ECE,5,88,73,4,1,Safe
+362,Zoya Mathur,EEE,5,61,40,3,1,Medium Risk
+363,Rohit Sharma,IT,5,72,40,6,2,Medium Risk
+364,Mohan Sharma,ECE,5,74,36,2,2,High Risk
+365,Nikhil Saxena,EEE,5,88,90,1,4,Medium Risk
+366,Imran Reddy,ECE,5,67,90,4,3,Medium Risk
+367,Pallavi Saxena,EEE,5,62,96,3,3,Medium Risk
+368,Pooja Mathur,CSE,5,62,28,5,1,High Risk
+369,Bhavya Nair,IT,5,84,90,2,0,Safe
+370,Lalit Singh,ECE,5,97,77,6,1,Safe
+371,Suman Reddy,EEE,5,77,91,4,3,Medium Risk
+372,Farah Saxena,EEE,5,83,45,2,4,Medium Risk
+373,Vikram Joshi,ECE,5,56,79,1,3,Medium Risk
+374,Zoya Singh,EEE,5,94,45,1,0,Safe
+375,Ananya Verma,EEE,5,67,95,6,2,Medium Risk
+376,Nikhil Kapoor,ECE,5,97,60,3,1,Safe
+377,Dev Chopra,ECE,5,62,64,2,4,Medium Risk
+378,Karan Bhat,CSE,5,90,50,2,3,Medium Risk
+379,Ajay Verma,IT,5,70,43,3,4,Medium Risk
+380,Aditya Das,EEE,5,59,62,4,1,Medium Risk
+381,Suresh Nair,EEE,5,65,41,3,1,Medium Risk
+382,Aakash Choudhary,CSE,5,62,41,1,1,Medium Risk
+383,Karthik Chopra,IT,5,75,52,5,1,Safe
+384,Girish Das,CSE,5,56,99,1,5,Medium Risk
+385,Sunil Joshi,CSE,5,69,97,5,2,Medium Risk
+386,Nandini Reddy,EEE,5,88,56,2,0,Safe
+387,Swathi Mathur,CSE,5,77,96,3,5,Medium Risk
+388,Pawan Mathur,EEE,5,100,98,4,1,Safe
+389,Zoya Sharma,EEE,5,92,95,6,3,Medium Risk
+390,Rohini Mehta,IT,5,74,94,6,3,Medium Risk
+391,Pawan Reddy,CSE,5,70,60,2,5,Medium Risk
+392,Anu Das,EEE,5,94,93,6,3,Medium Risk
+393,Jay Sharma,ECE,5,61,73,6,4,Medium Risk
+394,Vinay Patel,IT,5,76,95,5,1,Safe
+395,Karan Kumar,IT,5,58,79,1,4,Medium Risk
+396,Noor Shah,CSE,5,93,83,4,5,Medium Risk
+397,Naveen Das,ECE,5,85,67,5,1,Safe
+398,Tejas Reddy,IT,5,79,28,3,1,Safe
+399,Rohini Joshi,EEE,5,85,48,1,3,Medium Risk
+400,Pallavi Malhotra,EEE,5,57,98,1,2,Medium Risk
+401,Swathi Joshi,IT,5,62,31,2,2,High Risk
+402,Girish Chopra,ECE,5,97,98,3,0,Safe
+403,Rohini Singh,EEE,5,60,54,4,4,Medium Risk
+404,Dev Kapoor,CSE,5,65,50,4,4,Medium Risk
+405,Tejas Sharma,IT,5,54,75,2,4,Medium Risk
+406,Radhika Shah,ECE,5,93,67,2,2,Safe
+407,Farah Verma,CSE,5,52,62,1,1,Medium Risk
+408,Naveen Nair,ECE,5,56,65,6,4,Medium Risk
+409,Pooja Kumar,ECE,5,51,44,1,4,Medium Risk
+410,Aishwarya Nair,ECE,5,54,44,6,3,Medium Risk
+411,Ravi Mehta,CSE,5,72,61,1,4,Medium Risk
+412,Swathi Mathur,CSE,5,98,84,4,3,Medium Risk
+413,Pallavi Kumar,IT,5,91,44,3,4,Medium Risk
+414,Kavya Mathur,CSE,5,57,52,3,2,Medium Risk
+415,Dinesh Kumar,IT,5,63,50,3,5,Medium Risk
+416,Noor Singh,CSE,5,50,45,5,0,Medium Risk
+417,Karthik Singh,ECE,5,80,69,3,1,Safe
+418,Aishwarya Das,ECE,5,64,67,5,4,Medium Risk
+419,Karan Mathur,CSE,5,85,60,1,4,Medium Risk
+420,Priya Jain,CSE,5,73,90,1,5,Medium Risk
+421,Tanvi Jain,IT,5,89,41,2,4,Medium Risk
+422,Karan Bhat,ECE,5,94,66,5,5,Medium Risk
+423,Tejas Gupta,CSE,5,54,71,1,5,Medium Risk
+424,Farah Malhotra,EEE,5,87,42,2,5,Medium Risk
+425,Tanvi Verma,ECE,5,95,81,2,0,Safe
+426,Anu Patel,IT,5,89,71,5,2,Safe
+427,Siddharth Malhotra,IT,5,93,76,4,0,Safe
+428,Snehal Nair,EEE,5,60,42,1,4,Medium Risk
+429,Irfan Kumar,CSE,5,55,83,6,0,Medium Risk
+430,Ajay Patel,ECE,5,80,68,1,0,Safe
+431,Ankita Nair,ECE,5,62,65,3,2,Medium Risk
+432,Priya Bhat,CSE,5,76,41,5,0,Safe
+433,Umesh Sharma,IT,5,78,98,2,1,Safe
+434,Radhika Gupta,ECE,5,55,62,6,2,Medium Risk
+435,Mitali Choudhary,EEE,5,95,79,1,2,Safe
+436,Ananya Gupta,ECE,5,70,68,2,0,Medium Risk
+437,Radhika Saxena,IT,5,70,27,4,0,High Risk
+438,Mahesh Singh,CSE,5,66,97,2,4,Medium Risk
+439,Aishwarya Chopra,CSE,5,79,69,3,1,Safe
+440,Aakash Malhotra,CSE,5,50,61,3,3,Medium Risk
+441,Simran Mathur,EEE,5,85,48,4,1,Safe
+442,Suresh Kapoor,IT,5,52,55,5,4,Medium Risk
+443,Kunal Kumar,IT,5,93,50,5,5,Medium Risk
+444,Venu Bhat,IT,5,89,95,2,5,Medium Risk
+445,Ajay Joshi,IT,5,50,53,5,0,Medium Risk
+446,Karan Nair,CSE,5,88,33,3,1,Safe
+447,Kunal Shah,IT,5,78,76,1,5,Medium Risk
+448,Sahil Shah,ECE,5,68,26,1,3,High Risk
+449,Ritu Patel,CSE,5,77,68,3,4,Medium Risk
+450,Balaji Nair,CSE,5,90,77,3,1,Safe
+451,Aishwarya Das,CSE,5,69,76,6,1,Medium Risk
+452,Rekha Jain,EEE,5,58,89,3,4,Medium Risk
+453,Vikram Sharma,ECE,5,60,52,2,5,Medium Risk
+454,Preethi Kumar,IT,5,56,100,3,1,Medium Risk
+455,Harsha Nair,IT,5,92,80,3,3,Medium Risk
+456,Nikhil Das,CSE,5,55,49,1,5,Medium Risk
+457,Kunal Chopra,IT,5,67,51,4,0,Medium Risk
+458,Suman Kumar,IT,5,57,46,1,4,Medium Risk
+459,Ankita Mathur,CSE,5,89,81,4,4,Medium Risk
+460,Lalit Mehta,CSE,5,69,69,4,4,Medium Risk
+461,Shreya Bhat,IT,5,86,96,3,1,Safe
+462,Simran Jain,CSE,5,90,75,1,1,Safe
+463,Mohan Choudhary,IT,5,89,76,4,1,Safe
+464,Anu Das,CSE,5,98,75,6,2,Safe
+465,Meera Malhotra,CSE,5,87,50,2,0,Safe
+466,Divya Verma,EEE,5,59,46,5,3,Medium Risk
+467,Rohini Das,IT,5,70,28,5,3,High Risk
+468,Ajay Patel,EEE,5,50,46,5,1,Medium Risk
+469,Sneha Nair,EEE,5,89,51,3,5,Medium Risk
+470,Nikhil Verma,CSE,5,67,26,5,3,High Risk
+471,Riya Gupta,EEE,5,58,66,6,2,Medium Risk
+472,Sanjay Kumar,IT,5,100,42,2,5,Medium Risk
+473,Mahesh Joshi,EEE,5,94,77,3,3,Medium Risk
+474,Lalit Kapoor,CSE,5,100,75,3,0,Safe
+475,Pranav Shah,EEE,5,92,37,4,1,Safe
+476,Varun Singh,ECE,5,54,92,5,2,Medium Risk
+477,Jay Mathur,IT,5,94,37,2,2,Safe
+478,Siddharth Malhotra,IT,5,74,86,6,4,Medium Risk
+479,Keerthi Kumar,EEE,5,91,92,6,2,Safe
+480,Balaji Saxena,IT,5,84,90,6,2,Safe
+481,Lalit Reddy,CSE,5,51,63,4,5,Medium Risk
+482,Karan Patel,EEE,5,54,81,3,5,Medium Risk
+483,Mohan Chopra,ECE,5,75,43,3,3,Medium Risk
+484,Mahesh Verma,IT,5,89,26,3,3,Medium Risk
+485,Anu Sharma,CSE,5,59,79,4,1,Medium Risk
+486,Ankita Gupta,IT,5,87,37,2,4,Medium Risk
+487,Riya Bhat,IT,5,66,86,5,0,Medium Risk
+488,Lokesh Chopra,ECE,5,96,80,1,4,Medium Risk
+489,Dinesh Nair,ECE,5,70,94,3,2,Medium Risk
+490,Suman Chopra,EEE,5,76,71,1,2,Safe
+491,Rekha Kumar,ECE,5,53,60,3,1,Medium Risk
+492,Kishore Malhotra,CSE,5,96,67,6,4,Medium Risk
+493,Riya Chopra,ECE,5,87,54,4,2,Safe
+494,Riya Kapoor,ECE,5,98,55,6,2,Safe
+495,Shalini Patel,ECE,5,97,26,6,2,Safe
+496,Mohan Bhat,ECE,5,61,38,5,1,High Risk
+497,Farhan Malhotra,CSE,5,83,88,4,3,Medium Risk
+498,Noor Sharma,EEE,5,68,73,5,4,Medium Risk
+499,Lalit Kapoor,IT,5,91,46,5,2,Safe
+500,Bhavya Verma,ECE,5,92,43,4,3,Medium Risk
+501,Kiran Bhat,EEE,5,73,27,1,2,High Risk
+502,Aarav Nair,IT,5,79,42,2,5,Medium Risk
+503,Harsha Mehta,CSE,5,67,26,6,2,High Risk
+504,Sanjay Patel,IT,5,97,76,6,1,Safe
+505,Sunil Jain,CSE,5,78,34,3,1,Safe
+506,Tejas Verma,IT,5,88,64,6,4,Medium Risk
+507,Aarav Choudhary,CSE,5,97,31,6,0,Safe
+508,Apoorva Jain,EEE,5,53,86,4,3,Medium Risk
+509,Karan Gupta,ECE,5,99,77,2,4,Medium Risk
+510,Kishore Nair,IT,5,55,58,5,1,Medium Risk
+511,Suraj Nair,ECE,5,53,33,3,0,High Risk
+512,Farhan Patel,ECE,5,85,39,6,4,Medium Risk
+513,Rohan Malhotra,IT,5,61,42,4,1,Medium Risk
+514,Monika Shah,CSE,5,68,83,4,4,Medium Risk
+515,Meera Joshi,IT,5,63,29,3,1,High Risk
+516,Karan Verma,IT,5,81,63,1,0,Safe
+517,Mohan Das,ECE,5,55,70,2,5,Medium Risk
+518,Vikram Nair,CSE,5,88,57,5,4,Medium Risk
+519,Keerthi Chopra,EEE,5,74,51,6,0,Medium Risk
+520,Karan Malhotra,IT,5,69,28,2,1,High Risk
+521,Kiran Mehta,IT,5,76,68,5,5,Medium Risk
+522,Ravi Nair,IT,5,65,95,5,2,Medium Risk
+523,Snehal Joshi,EEE,5,80,84,1,3,Medium Risk
+524,Dinesh Patel,IT,5,60,46,6,3,Medium Risk
+525,Faiz Jain,ECE,5,89,68,4,1,Safe
+526,Shalini Shah,CSE,5,90,89,1,0,Safe
+527,Harsha Choudhary,CSE,5,80,45,1,5,Medium Risk
+528,Jay Mathur,CSE,5,52,60,5,2,Medium Risk
+529,Farhan Reddy,IT,5,76,59,1,3,Medium Risk
+530,Suresh Mathur,EEE,5,53,25,2,0,High Risk
+531,Ishita Mathur,CSE,5,82,76,6,2,Safe
+532,Nikhil Jain,EEE,5,61,97,2,1,Medium Risk
+533,Ishita Malhotra,CSE,5,68,90,2,2,Medium Risk
+534,Dev Joshi,CSE,5,81,49,2,1,Safe
+535,Balaji Jain,CSE,5,57,46,2,0,Medium Risk
+536,Rohit Nair,IT,5,86,47,3,2,Safe
+537,Sakshi Mehta,IT,5,88,25,5,4,Medium Risk
+538,Farhan Saxena,EEE,5,64,32,3,5,High Risk
+539,Rohit Jain,ECE,5,83,46,1,1,Safe
+540,Priya Mehta,CSE,5,77,92,4,3,Medium Risk
+541,Yash Nair,IT,5,52,41,6,2,Medium Risk
+542,Imran Kumar,CSE,5,87,54,2,4,Medium Risk
+543,Akash Saxena,EEE,5,62,47,6,3,Medium Risk
+544,Dinesh Shah,CSE,5,96,99,5,0,Safe
+545,Aarav Nair,EEE,5,68,34,4,0,High Risk
+546,Riya Das,CSE,5,96,37,4,4,Medium Risk
+547,Vinay Bhat,IT,5,88,67,3,2,Safe
+548,Riya Nair,IT,5,75,38,2,2,Safe
+549,Shubham Gupta,IT,5,83,51,5,3,Medium Risk
+550,Divya Chopra,ECE,5,53,69,1,4,Medium Risk
+551,Tejas Reddy,IT,5,86,51,5,1,Safe
+552,Kishore Choudhary,IT,5,80,66,1,1,Safe
+553,Divya Verma,CSE,5,81,91,6,4,Medium Risk
+554,Ananya Kumar,CSE,5,81,36,6,0,Safe
+555,Bharti Choudhary,ECE,5,97,60,2,3,Medium Risk
+556,Suraj Mathur,EEE,5,78,45,5,5,Medium Risk
+557,Ajay Sharma,CSE,5,72,91,1,3,Medium Risk
+558,Mitali Shah,IT,5,92,42,6,0,Safe
+559,Siddharth Shah,IT,5,91,38,5,3,Medium Risk
+560,Siddharth Kumar,IT,5,52,97,3,1,Medium Risk
+561,Karthik Patel,EEE,5,50,56,2,2,Medium Risk
+562,Balaji Sharma,ECE,5,91,92,3,4,Medium Risk
+563,Ravi Gupta,CSE,5,90,37,1,3,Medium Risk
+564,Farhan Mathur,CSE,5,97,63,1,3,Medium Risk
+565,Ananya Verma,ECE,5,65,48,2,0,Medium Risk
+566,Suresh Patel,CSE,5,100,25,2,0,Safe
+567,Riya Malhotra,ECE,5,66,77,3,1,Medium Risk
+568,Preethi Patel,ECE,5,60,43,4,5,Medium Risk
+569,Priti Saxena,ECE,5,70,33,6,5,High Risk
+570,Suman Gupta,EEE,5,53,94,4,0,Medium Risk
+571,Shalini Nair,ECE,5,55,81,4,3,Medium Risk
+572,Zoya Chopra,IT,5,57,94,6,5,Medium Risk
+573,Ishita Malhotra,EEE,5,89,30,4,5,Medium Risk
+574,Alina Reddy,ECE,5,70,63,1,4,Medium Risk
+575,Mahesh Mathur,EEE,5,89,35,4,5,Medium Risk
+576,Farhan Kumar,IT,5,65,76,4,2,Medium Risk
+577,Shalini Bhat,EEE,5,82,76,2,5,Medium Risk
+578,Ankita Malhotra,IT,5,58,46,4,4,Medium Risk
+579,Noor Choudhary,CSE,5,97,59,3,5,Medium Risk
+580,Aakash Kumar,IT,5,78,50,6,2,Safe
+581,Ankita Mehta,IT,5,94,26,1,5,Medium Risk
+582,Suresh Singh,ECE,5,86,95,3,3,Medium Risk
+583,Sahil Mathur,IT,5,84,58,2,4,Medium Risk
+584,Divya Mathur,ECE,5,75,73,4,3,Medium Risk
+585,Swathi Saxena,IT,5,61,60,4,1,Medium Risk
+586,Amit Nair,EEE,5,85,71,4,2,Safe
+587,Jay Reddy,EEE,5,94,73,4,5,Medium Risk
+588,Mitali Choudhary,IT,5,69,81,4,3,Medium Risk
+589,Deepak Choudhary,EEE,5,54,96,5,4,Medium Risk
+590,Rahul Kumar,IT,5,78,67,1,2,Safe
+591,Rohit Chopra,EEE,5,97,37,2,1,Safe
+592,Suman Saxena,CSE,5,62,74,5,5,Medium Risk
+593,Preethi Nair,CSE,5,50,53,2,1,Medium Risk
+594,Harsha Chopra,CSE,5,100,79,3,3,Medium Risk
+595,Farah Nair,IT,5,67,82,1,5,Medium Risk
+596,Sanjay Verma,CSE,5,99,34,5,3,Medium Risk
+597,Vikram Nair,ECE,5,62,82,1,1,Medium Risk
+598,Priya Reddy,ECE,5,82,47,2,2,Safe
+599,Zoya Choudhary,IT,5,75,69,3,3,Medium Risk
+600,Kavya Mehta,ECE,5,68,41,2,5,Medium Risk
+601,Aakash Bhat,IT,5,50,74,5,5,Medium Risk
+602,Naresh Saxena,EEE,5,74,65,1,2,Medium Risk
+603,Aakash Kapoor,EEE,5,50,86,2,4,Medium Risk
+604,Komal Singh,CSE,5,90,31,1,4,Medium Risk
+605,Vikram Nair,ECE,5,57,93,3,1,Medium Risk
+606,Dev Choudhary,CSE,5,98,42,4,1,Safe
+607,Karan Choudhary,ECE,5,86,62,1,3,Medium Risk
+608,Tanvi Reddy,EEE,5,84,42,4,2,Safe
+609,Ishita Reddy,ECE,5,56,46,3,4,Medium Risk
+610,Sakshi Gupta,CSE,5,69,68,1,1,Medium Risk
+611,Swathi Sharma,ECE,5,97,75,5,1,Safe
+612,Shubham Kumar,ECE,5,55,78,3,4,Medium Risk
+613,Pooja Shah,IT,5,86,92,3,4,Medium Risk
+614,Shreya Kumar,IT,5,79,97,4,5,Medium Risk
+615,Rekha Malhotra,EEE,5,89,66,2,5,Medium Risk
+616,Radhika Verma,IT,5,88,60,6,3,Medium Risk
+617,Sneha Shah,CSE,5,79,57,6,0,Safe
+618,Tarun Kumar,EEE,5,81,61,1,4,Medium Risk
+619,Balaji Patel,CSE,5,60,77,3,1,Medium Risk
+620,Kishore Verma,ECE,5,57,42,2,2,Medium Risk
+621,Harsha Gupta,CSE,5,63,34,5,0,High Risk
+622,Lalit Saxena,CSE,5,50,75,6,3,Medium Risk
+623,Pankaj Saxena,ECE,5,68,96,2,5,Medium Risk
+624,Lokesh Choudhary,CSE,5,81,49,4,2,Safe
+625,Farhan Chopra,CSE,5,59,72,2,3,Medium Risk
+626,Farhan Joshi,ECE,5,93,82,6,5,Medium Risk
+627,Aishwarya Patel,EEE,5,71,74,2,3,Medium Risk
+628,Rohit Reddy,EEE,5,81,41,5,0,Safe
+629,Kunal Kapoor,CSE,5,99,46,4,3,Medium Risk
+630,Rohini Gupta,IT,5,85,68,1,5,Medium Risk
+631,Ishita Kapoor,EEE,5,71,72,5,4,Medium Risk
+632,Rekha Patel,IT,5,56,100,6,0,Medium Risk
+633,Yash Jain,EEE,5,63,45,5,2,Medium Risk
+634,Sneha Malhotra,ECE,5,64,49,1,0,Medium Risk
+635,Priya Nair,CSE,5,98,42,2,1,Safe
+636,Sakshi Verma,CSE,5,65,88,6,4,Medium Risk
+637,Abhishek Kumar,CSE,5,92,53,6,3,Medium Risk
+638,Varun Das,CSE,5,78,83,4,4,Medium Risk
+639,Aarav Malhotra,ECE,5,84,61,3,5,Medium Risk
+640,Nikhil Kumar,EEE,5,99,40,5,2,Safe
+641,Rajesh Mehta,IT,5,70,89,4,0,Medium Risk
+642,Simran Sharma,CSE,5,69,35,2,5,High Risk
+643,Komal Verma,CSE,5,91,53,2,3,Medium Risk
+644,Mitali Kumar,IT,5,97,76,2,3,Medium Risk
+645,Akash Patel,ECE,5,81,81,1,0,Safe
+646,Ishita Mathur,IT,5,64,50,1,4,Medium Risk
+647,Swathi Verma,CSE,5,88,85,6,0,Safe
+648,Jay Kumar,CSE,5,82,90,4,0,Safe
+649,Zoya Mathur,EEE,5,79,39,5,5,Medium Risk
+650,Abhishek Das,EEE,5,84,51,6,0,Safe
+651,Tejas Das,IT,5,74,62,6,0,Medium Risk
+652,Tanvi Saxena,IT,5,85,41,6,2,Safe
+653,Sunil Kumar,EEE,5,77,82,1,2,Safe
+654,Neha Reddy,CSE,5,84,97,1,2,Safe
+655,Imran Jain,EEE,5,76,48,3,4,Medium Risk
+656,Aditya Jain,EEE,5,57,87,6,2,Medium Risk
+657,Farah Singh,CSE,5,84,61,4,3,Medium Risk
+658,Neha Mathur,EEE,5,77,79,4,0,Safe
+659,Kavya Jain,EEE,5,79,52,5,5,Medium Risk
+660,Radhika Reddy,IT,5,78,77,4,1,Safe
+661,Siddharth Kumar,EEE,5,64,48,4,5,Medium Risk
+662,Ritu Chopra,IT,5,67,65,2,2,Medium Risk
+663,Rekha Nair,CSE,5,61,88,4,5,Medium Risk
+664,Shubham Mathur,ECE,5,62,50,3,0,Medium Risk
+665,Pallavi Saxena,IT,5,89,44,3,4,Medium Risk
+666,Suresh Saxena,ECE,5,63,74,1,2,Medium Risk
+667,Umesh Singh,CSE,5,72,78,6,3,Medium Risk
+668,Harsha Sharma,IT,5,68,60,1,3,Medium Risk
+669,Priya Shah,IT,5,65,80,6,5,Medium Risk
+670,Zoya Singh,CSE,5,57,30,2,2,High Risk
+671,Siddharth Gupta,CSE,5,55,81,5,4,Medium Risk
+672,Swathi Nair,EEE,5,94,58,2,3,Medium Risk
+673,Dev Shah,EEE,5,74,43,3,5,Medium Risk
+674,Imran Verma,EEE,5,58,31,2,1,High Risk
+675,Rajesh Nair,ECE,5,80,47,1,3,Medium Risk
+676,Tanvi Joshi,CSE,5,55,73,1,0,Medium Risk
+677,Manoj Mehta,CSE,5,96,39,1,3,Medium Risk
+678,Tanvi Reddy,ECE,5,85,35,3,2,Safe
+679,Bhavya Sharma,IT,5,54,61,5,5,Medium Risk
+680,Amit Das,ECE,5,82,77,2,3,Medium Risk
+681,Sahil Bhat,CSE,5,87,47,1,0,Safe
+682,Deepak Mathur,IT,5,57,69,5,0,Medium Risk
+683,Rajesh Kapoor,CSE,5,71,32,6,5,High Risk
+684,Komal Sharma,ECE,5,73,35,5,1,High Risk
+685,Rahul Saxena,CSE,5,73,81,6,0,Medium Risk
+686,Radhika Singh,EEE,5,57,67,1,4,Medium Risk
+687,Sneha Choudhary,IT,5,78,29,4,2,Safe
+688,Vinay Chopra,ECE,5,58,96,2,0,Medium Risk
+689,Aakash Choudhary,IT,5,51,51,6,2,Medium Risk
+690,Dinesh Sharma,IT,5,58,81,3,3,Medium Risk
+691,Lavanya Choudhary,EEE,5,58,71,2,0,Medium Risk
+692,Irfan Reddy,ECE,5,69,27,1,5,High Risk
+693,Aishwarya Chopra,EEE,5,95,53,3,3,Medium Risk
+694,Manoj Reddy,CSE,5,65,93,4,0,Medium Risk
+695,Sanjay Joshi,IT,5,67,36,4,2,High Risk
+696,Faiz Reddy,ECE,5,58,99,1,1,Medium Risk
+697,Sakshi Mehta,CSE,5,97,77,5,0,Safe
+698,Priti Reddy,EEE,5,90,41,5,0,Safe
+699,Aarav Nair,IT,5,71,43,6,1,Medium Risk
+700,Sanjay Gupta,ECE,5,87,35,6,5,Medium Risk
+701,Priya Saxena,IT,5,64,79,3,3,Medium Risk
+702,Pallavi Malhotra,IT,5,76,97,1,1,Safe
+703,Naresh Das,EEE,5,96,53,1,2,Safe
+704,Kishore Malhotra,ECE,5,91,98,4,4,Medium Risk
+705,Neha Reddy,CSE,5,87,97,1,0,Safe
+706,Radhika Verma,IT,5,58,35,3,2,High Risk
+707,Yash Mathur,CSE,5,99,51,4,5,Medium Risk
+708,Dinesh Chopra,IT,5,57,32,3,0,High Risk
+709,Bharti Das,CSE,5,51,35,3,0,High Risk
+710,Rohan Das,IT,5,89,60,4,0,Safe
+711,Kavya Choudhary,EEE,5,56,44,6,3,Medium Risk
+712,Vikram Mehta,EEE,5,81,59,1,1,Safe
+713,Mohan Saxena,ECE,5,97,62,4,2,Safe
+714,Shubham Mehta,ECE,5,51,74,4,0,Medium Risk
+715,Noor Nair,CSE,5,79,69,6,3,Medium Risk
+716,Aditya Choudhary,IT,5,74,97,2,2,Medium Risk
+717,Aditya Nair,IT,5,72,88,5,3,Medium Risk
+718,Sahil Gupta,ECE,5,60,49,1,1,Medium Risk
+719,Monika Gupta,ECE,5,96,40,3,0,Safe
+720,Anu Kumar,EEE,5,99,93,3,2,Safe
+721,Jay Das,CSE,5,83,81,2,4,Medium Risk
+722,Preethi Mathur,CSE,5,66,87,6,2,Medium Risk
+723,Ila Verma,ECE,5,54,84,4,2,Medium Risk
+724,Radhika Malhotra,ECE,5,81,78,4,2,Safe
+725,Suresh Choudhary,ECE,5,80,40,2,3,Medium Risk
+726,Sunil Kumar,IT,5,55,59,2,1,Medium Risk
+727,Lavanya Bhat,EEE,5,89,95,3,0,Safe
+728,Pallavi Sharma,CSE,5,82,75,2,1,Safe
+729,Noor Bhat,IT,5,96,82,3,2,Safe
+730,Pranav Mathur,ECE,5,82,69,4,2,Safe
+731,Abhishek Verma,ECE,5,59,37,5,5,High Risk
+732,Sneha Patel,ECE,5,92,88,4,1,Safe
+733,Divya Gupta,CSE,5,83,26,2,4,Medium Risk
+734,Priya Shah,ECE,5,54,100,1,4,Medium Risk
+735,Abhishek Chopra,EEE,5,86,45,1,2,Safe
+736,Mitali Jain,IT,5,66,78,1,2,Medium Risk
+737,Ananya Bhat,CSE,5,50,28,5,5,High Risk
+738,Rohan Mathur,CSE,5,76,85,4,4,Medium Risk
+739,Balaji Nair,CSE,5,87,41,2,1,Safe
+740,Deepak Verma,CSE,5,71,52,4,2,Medium Risk
+741,Sakshi Choudhary,CSE,5,92,64,6,2,Safe
+742,Sunil Singh,CSE,5,82,86,4,2,Safe
+743,Ritu Shah,EEE,5,52,63,3,3,Medium Risk
+744,Kiran Nair,CSE,5,68,56,5,2,Medium Risk
+745,Farah Mathur,IT,5,93,70,4,3,Medium Risk
+746,Riya Kumar,IT,5,95,70,3,4,Medium Risk
+747,Arjun Patel,CSE,5,59,83,3,0,Medium Risk
+748,Kishore Kapoor,EEE,5,59,94,5,2,Medium Risk
+749,Komal Choudhary,CSE,5,74,44,6,4,Medium Risk
+750,Lalit Kumar,IT,5,71,77,2,4,Medium Risk
+751,Pawan Gupta,ECE,5,50,34,1,2,High Risk
+752,Kriti Bhat,IT,5,99,35,3,1,Safe
+753,Naresh Kumar,ECE,5,60,100,4,2,Medium Risk
+754,Lavanya Mehta,CSE,5,50,90,2,3,Medium Risk
+755,Simran Sharma,IT,5,73,97,1,2,Medium Risk
+756,Ankita Kumar,IT,5,100,98,5,3,Medium Risk
+757,Ramesh Gupta,EEE,5,89,42,2,1,Safe
+758,Priti Bhat,ECE,5,63,37,4,4,High Risk
+759,Faiz Sharma,IT,5,80,90,5,4,Medium Risk
+760,Simran Malhotra,EEE,5,59,44,4,1,Medium Risk
+761,Mohan Choudhary,EEE,5,54,73,4,2,Medium Risk
+762,Kunal Shah,EEE,5,50,41,1,2,Medium Risk
+763,Pawan Joshi,IT,5,59,58,2,4,Medium Risk
+764,Ajay Saxena,IT,5,90,43,3,3,Medium Risk
+765,Meera Bhat,EEE,5,50,90,4,5,Medium Risk
+766,Shalini Malhotra,CSE,5,56,99,3,0,Medium Risk
+767,Neha Kumar,IT,5,69,49,6,4,Medium Risk
+768,Mahesh Kumar,EEE,5,96,34,4,1,Safe
+769,Irfan Sharma,CSE,5,81,61,4,2,Safe
+770,Kunal Choudhary,CSE,5,77,38,3,5,Medium Risk
+771,Farhan Mehta,ECE,5,54,37,5,3,High Risk
+772,Anu Mathur,IT,5,83,86,5,2,Safe
+773,Shubham Das,EEE,5,55,99,4,0,Medium Risk
+774,Pankaj Sharma,EEE,5,81,66,2,3,Medium Risk
+775,Rajesh Bhat,CSE,5,59,82,1,0,Medium Risk
+776,Kunal Verma,CSE,5,72,72,4,5,Medium Risk
+777,Naveen Kapoor,EEE,5,98,80,2,5,Medium Risk
+778,Sakshi Kapoor,ECE,5,91,64,5,2,Safe
+779,Meera Mathur,CSE,5,80,38,5,3,Medium Risk
+780,Priti Reddy,EEE,5,68,70,3,4,Medium Risk
+781,Sahil Singh,IT,5,85,35,1,0,Safe
+782,Ajay Kapoor,IT,5,54,58,1,2,Medium Risk
+783,Deepak Shah,ECE,5,98,64,1,4,Medium Risk
+784,Sunil Reddy,CSE,5,83,47,2,5,Medium Risk
+785,Pawan Malhotra,CSE,5,89,59,4,4,Medium Risk
+786,Rahul Mathur,IT,5,53,90,5,0,Medium Risk
+787,Amit Malhotra,ECE,5,64,49,6,1,Medium Risk
+788,Shreya Patel,CSE,5,66,62,6,4,Medium Risk
+789,Kavya Patel,CSE,5,95,72,5,4,Medium Risk
+790,Preethi Chopra,EEE,5,56,78,4,4,Medium Risk
+791,Kunal Gupta,ECE,5,81,100,6,0,Safe
+792,Aakash Patel,ECE,5,64,65,5,4,Medium Risk
+793,Nikhil Bhat,CSE,5,75,65,6,5,Medium Risk
+794,Ramesh Kumar,ECE,5,71,72,2,3,Medium Risk
+795,Dev Bhat,CSE,5,99,67,6,5,Medium Risk
+796,Amit Gupta,IT,5,67,72,2,4,Medium Risk
+797,Tanvi Reddy,IT,5,73,25,1,5,High Risk
+798,Imran Patel,CSE,5,77,98,5,2,Safe
+799,Harsha Patel,EEE,5,71,53,2,2,Medium Risk
+800,Pawan Nair,ECE,5,81,78,4,4,Medium Risk
+801,Ajay Bhat,CSE,5,74,57,3,1,Medium Risk
+802,Ravi Gupta,IT,5,87,38,2,2,Safe
+803,Aarav Patel,CSE,5,69,87,5,2,Medium Risk
+804,Nikhil Das,IT,5,99,46,1,0,Safe
+805,Aakash Patel,ECE,5,99,72,4,3,Medium Risk
+806,Suresh Singh,IT,5,67,85,1,3,Medium Risk
+807,Nisha Choudhary,CSE,5,78,71,5,3,Medium Risk
+808,Zoya Das,EEE,5,83,57,5,3,Medium Risk
+809,Mahesh Mathur,CSE,5,75,29,2,4,Medium Risk
+810,Arjun Das,IT,5,54,40,5,0,Medium Risk
+811,Kiran Patel,IT,5,58,63,6,3,Medium Risk
+812,Shreya Joshi,IT,5,52,54,6,5,Medium Risk
+813,Keerthi Choudhary,ECE,5,62,71,4,0,Medium Risk
+814,Nisha Mehta,IT,5,52,41,3,2,Medium Risk
+815,Ritu Patel,CSE,5,82,94,1,4,Medium Risk
+816,Pankaj Nair,EEE,5,97,80,5,4,Medium Risk
+817,Dinesh Das,EEE,5,83,77,6,5,Medium Risk
+818,Nisha Choudhary,ECE,5,88,62,2,3,Medium Risk
+819,Dev Nair,CSE,5,76,95,5,1,Safe
+820,Neha Choudhary,EEE,5,97,40,1,3,Medium Risk
+821,Keerthi Singh,CSE,5,61,57,1,4,Medium Risk
+822,Radhika Jain,IT,5,83,54,4,1,Safe
+823,Nandini Mathur,IT,5,56,80,3,2,Medium Risk
+824,Farhan Reddy,CSE,5,85,78,2,2,Safe
+825,Venu Joshi,EEE,5,76,91,6,0,Safe
+826,Divya Reddy,IT,5,64,91,2,4,Medium Risk
+827,Komal Nair,ECE,5,60,74,4,0,Medium Risk
+828,Pranav Malhotra,IT,5,84,51,3,4,Medium Risk
+829,Kavya Das,EEE,5,71,84,6,0,Medium Risk
+830,Rohit Gupta,ECE,5,75,96,6,3,Medium Risk
+831,Lavanya Kapoor,EEE,5,83,84,1,1,Safe
+832,Kiran Bhat,EEE,5,85,64,5,3,Medium Risk
+833,Aakash Bhat,CSE,5,76,27,1,4,Medium Risk
+834,Harsha Patel,CSE,5,57,37,5,5,High Risk
+835,Sunil Sharma,CSE,5,60,69,6,5,Medium Risk
+836,Karthik Jain,CSE,5,80,44,2,4,Medium Risk
+837,Karan Joshi,ECE,5,77,31,6,4,Medium Risk
+838,Sakshi Kumar,EEE,5,65,48,2,4,Medium Risk
+839,Dinesh Gupta,CSE,5,61,100,1,4,Medium Risk
+840,Mitali Mehta,EEE,5,72,46,5,3,Medium Risk
+841,Sunil Bhat,IT,5,86,85,5,4,Medium Risk
+842,Anu Reddy,IT,5,69,41,1,5,Medium Risk
+843,Bhavya Jain,IT,5,100,80,5,3,Medium Risk
+844,Komal Shah,CSE,5,92,68,3,0,Safe
+845,Ramesh Gupta,CSE,5,60,84,6,3,Medium Risk
+846,Alina Jain,IT,5,100,37,2,2,Safe
+847,Bhavya Saxena,ECE,5,93,56,1,2,Safe
+848,Mahesh Reddy,ECE,5,68,34,5,4,High Risk
+849,Varun Chopra,EEE,5,84,37,4,0,Safe
+850,Yash Reddy,EEE,5,50,63,2,5,Medium Risk
+851,Ankita Malhotra,IT,5,88,57,1,5,Medium Risk
+852,Priya Shah,CSE,5,54,75,4,2,Medium Risk
+853,Karthik Das,ECE,5,50,52,6,4,Medium Risk
+854,Radhika Das,CSE,5,68,44,6,0,Medium Risk
+855,Riya Saxena,IT,5,54,52,4,2,Medium Risk
+856,Rohini Sharma,CSE,5,96,29,2,4,Medium Risk
+857,Ananya Patel,CSE,5,75,37,1,2,Safe
+858,Lavanya Kumar,ECE,5,69,32,1,2,High Risk
+859,Tarun Jain,ECE,5,67,85,4,0,Medium Risk
+860,Neha Mehta,IT,5,95,88,3,5,Medium Risk
+861,Dinesh Bhat,CSE,5,56,57,4,1,Medium Risk
+862,Suresh Verma,CSE,5,93,64,4,2,Safe
+863,Suraj Sharma,EEE,5,71,59,1,5,Medium Risk
+864,Keerthi Kumar,CSE,5,56,26,2,2,High Risk
+865,Kunal Kumar,EEE,5,81,36,6,1,Safe
+866,Sunil Malhotra,CSE,5,63,37,6,5,High Risk
+867,Aishwarya Jain,EEE,5,57,39,5,5,High Risk
+868,Sanjay Chopra,EEE,5,67,52,5,3,Medium Risk
+869,Harsha Joshi,IT,5,52,46,6,1,Medium Risk
+870,Ritu Sharma,CSE,5,87,45,4,0,Safe
+871,Alina Patel,EEE,5,95,36,3,3,Medium Risk
+872,Harsha Shah,IT,5,89,41,6,1,Safe
+873,Riya Bhat,IT,5,56,35,6,5,High Risk
+874,Farhan Kumar,CSE,5,88,49,6,3,Medium Risk
+875,Deepak Gupta,EEE,5,51,93,5,2,Medium Risk
+876,Riya Reddy,CSE,5,90,78,5,3,Medium Risk
+877,Pawan Singh,IT,5,95,54,3,5,Medium Risk
+878,Ramesh Bhat,EEE,5,88,78,1,4,Medium Risk
+879,Tarun Chopra,ECE,5,69,29,3,3,High Risk
+880,Lavanya Joshi,IT,5,69,75,3,1,Medium Risk
+881,Tejas Malhotra,CSE,5,91,100,3,5,Medium Risk
+882,Monika Reddy,IT,5,80,54,3,1,Safe
+883,Siddharth Joshi,IT,5,51,89,1,2,Medium Risk
+884,Sanjay Verma,EEE,5,96,93,1,3,Medium Risk
+885,Simran Mathur,EEE,5,52,62,6,2,Medium Risk
+886,Farhan Malhotra,CSE,5,61,31,3,1,High Risk
+887,Aditya Jain,EEE,5,60,73,1,1,Medium Risk
+888,Umesh Verma,EEE,5,71,70,6,0,Medium Risk
+889,Kriti Singh,IT,5,64,77,5,5,Medium Risk
+890,Sahil Gupta,IT,5,69,94,2,0,Medium Risk
+891,Neha Kapoor,ECE,5,53,98,3,4,Medium Risk
+892,Pawan Nair,ECE,5,98,41,5,0,Safe
+893,Dev Singh,ECE,5,94,43,2,0,Safe
+894,Siddharth Kapoor,IT,5,58,54,3,1,Medium Risk
+895,Venu Saxena,EEE,5,70,66,3,4,Medium Risk
+896,Rajesh Bhat,EEE,5,79,25,4,4,Medium Risk
+897,Venu Chopra,EEE,5,70,53,2,3,Medium Risk
+898,Zoya Saxena,ECE,5,89,60,4,4,Medium Risk
+899,Rajesh Verma,EEE,5,72,68,4,1,Medium Risk
+900,Venu Joshi,IT,5,93,51,1,0,Safe
+901,Ananya Jain,EEE,5,57,35,4,2,High Risk
+902,Ramesh Das,EEE,5,93,87,6,5,Medium Risk
+903,Keerthi Joshi,EEE,5,63,32,4,4,High Risk
+904,Bhavya Malhotra,ECE,5,70,99,5,2,Medium Risk
+905,Komal Bhat,CSE,5,50,32,2,3,High Risk
+906,Mitali Reddy,ECE,5,85,93,2,2,Safe
+907,Farah Mathur,EEE,5,69,36,6,3,High Risk
+908,Divya Kapoor,CSE,5,84,50,1,0,Safe
+909,Ajay Saxena,EEE,5,84,62,3,1,Safe
+910,Priya Mathur,ECE,5,96,90,3,5,Medium Risk
+911,Karan Gupta,CSE,5,77,39,1,2,Safe
+912,Aishwarya Chopra,CSE,5,89,33,5,4,Medium Risk
+913,Balaji Choudhary,CSE,5,73,89,2,1,Medium Risk
+914,Suraj Nair,ECE,5,50,52,3,2,Medium Risk
+915,Mitali Mehta,ECE,5,87,48,4,0,Safe
+916,Karan Jain,IT,5,88,96,4,4,Medium Risk
+917,Kishore Malhotra,ECE,5,58,94,4,3,Medium Risk
+918,Deepak Gupta,IT,5,65,80,4,0,Medium Risk
+919,Shubham Bhat,IT,5,67,68,5,4,Medium Risk
+920,Rohit Malhotra,EEE,5,69,85,3,0,Medium Risk
+921,Suresh Kapoor,IT,5,99,33,3,0,Safe
+922,Pawan Chopra,CSE,5,61,70,2,1,Medium Risk
+923,Bharti Joshi,EEE,5,79,46,5,0,Safe
+924,Kriti Malhotra,EEE,5,97,95,6,0,Safe
+925,Pallavi Nair,ECE,5,72,74,4,0,Medium Risk
+926,Neha Mehta,IT,5,52,53,6,0,Medium Risk
+927,Balaji Kapoor,EEE,5,90,94,3,3,Medium Risk
+928,Simran Verma,CSE,5,85,92,1,1,Safe
+929,Ramesh Reddy,EEE,5,73,32,4,0,High Risk
+930,Karan Mehta,ECE,5,68,48,6,0,Medium Risk
+931,Lokesh Verma,IT,5,94,35,2,5,Medium Risk
+932,Noor Reddy,EEE,5,62,67,3,2,Medium Risk
+933,Monika Das,ECE,5,62,34,1,4,High Risk
+934,Ila Jain,EEE,5,85,67,4,4,Medium Risk
+935,Kunal Mehta,ECE,5,65,76,2,1,Medium Risk
+936,Mohan Gupta,ECE,5,80,66,4,2,Safe
+937,Kishore Kapoor,IT,5,90,90,5,3,Medium Risk
+938,Rahul Verma,IT,5,85,55,2,4,Medium Risk
+939,Priya Singh,CSE,5,67,50,5,1,Medium Risk
+940,Aishwarya Jain,ECE,5,90,41,2,3,Medium Risk
+941,Nisha Bhat,CSE,5,74,77,3,3,Medium Risk
+942,Keerthi Malhotra,ECE,5,87,74,2,1,Safe
+943,Karan Malhotra,IT,5,83,80,6,3,Medium Risk
+944,Sakshi Saxena,ECE,5,70,50,1,2,Medium Risk
+945,Imran Mathur,EEE,5,59,93,6,0,Medium Risk
+946,Ila Malhotra,CSE,5,53,60,6,4,Medium Risk
+947,Pallavi Shah,IT,5,60,69,3,4,Medium Risk
+948,Priya Verma,IT,5,73,54,2,3,Medium Risk
+949,Sunil Mehta,EEE,5,84,43,5,3,Medium Risk
+950,Ananya Verma,CSE,5,87,29,4,1,Safe
+951,Rohini Gupta,CSE,5,62,96,6,0,Medium Risk
+952,Sanjay Nair,IT,5,60,58,4,2,Medium Risk
+953,Bharti Choudhary,ECE,5,93,72,3,3,Medium Risk
+954,Anu Choudhary,ECE,5,54,31,1,3,High Risk
+955,Zoya Bhat,ECE,5,67,84,2,5,Medium Risk
+956,Neha Sharma,CSE,5,63,38,6,5,High Risk
+957,Suraj Nair,EEE,5,60,93,1,0,Medium Risk
+958,Vikram Jain,ECE,5,81,73,2,0,Safe
+959,Dev Saxena,CSE,5,74,87,2,3,Medium Risk
+960,Lalit Gupta,ECE,5,93,69,5,1,Safe
+961,Kriti Mathur,IT,5,63,63,4,1,Medium Risk
+962,Priti Sharma,ECE,5,59,55,6,0,Medium Risk
+963,Tejas Shah,IT,5,89,79,3,4,Medium Risk
+964,Sunil Shah,IT,5,56,58,2,1,Medium Risk
+965,Mitali Jain,ECE,5,93,38,1,2,Safe
+966,Rajesh Reddy,IT,5,75,79,6,5,Medium Risk
+967,Swathi Kumar,IT,5,58,50,6,4,Medium Risk
+968,Bharti Kumar,EEE,5,57,41,3,2,Medium Risk
+969,Rajesh Bhat,IT,5,69,37,2,5,High Risk
+970,Ravi Saxena,ECE,5,86,30,6,5,Medium Risk
+971,Nandini Nair,EEE,5,83,60,2,0,Safe
+972,Komal Sharma,IT,5,71,96,2,4,Medium Risk
+973,Shreya Nair,IT,5,65,33,6,3,High Risk
+974,Aarav Gupta,EEE,5,94,79,3,0,Safe
+975,Suraj Shah,IT,5,63,100,5,0,Medium Risk
+976,Kishore Jain,CSE,5,99,39,2,1,Safe
+977,Suresh Kumar,EEE,5,79,26,4,3,Medium Risk
+978,Venu Gupta,EEE,5,71,26,2,4,High Risk
+979,Aakash Patel,ECE,5,98,31,3,2,Safe
+980,Sneha Patel,ECE,5,77,91,5,1,Safe
+981,Aishwarya Singh,ECE,5,73,79,3,5,Medium Risk
+982,Ankita Patel,CSE,5,54,30,5,0,High Risk
+983,Vikram Choudhary,IT,5,94,65,3,1,Safe
+984,Faiz Saxena,CSE,5,57,37,4,3,High Risk
+985,Swathi Patel,IT,5,78,88,4,3,Medium Risk
+986,Bharti Patel,IT,5,66,26,3,3,High Risk
+987,Suresh Kumar,IT,5,53,90,3,0,Medium Risk
+988,Dev Reddy,ECE,5,100,98,2,3,Medium Risk
+989,Kiran Nair,EEE,5,85,33,2,0,Safe
+990,Deepak Reddy,IT,5,85,76,2,1,Safe
+991,Noor Mathur,IT,5,94,29,2,1,Safe
+992,Ajay Verma,ECE,5,65,27,3,0,High Risk
+993,Deepak Joshi,ECE,5,98,64,6,5,Medium Risk
+994,Imran Singh,IT,5,85,87,2,0,Safe
+995,Pooja Singh,ECE,5,62,42,3,1,Medium Risk
+996,Sakshi Malhotra,CSE,5,51,90,3,2,Medium Risk
+997,Vikram Verma,CSE,5,55,30,4,5,High Risk
+998,Ananya Kumar,ECE,5,70,92,3,0,Medium Risk
+999,Mitali Joshi,CSE,5,68,31,4,4,High Risk
+1000,Preethi Reddy,IT,5,77,54,6,0,Safe
+1001,Amit Gupta,ECE,5,50,81,6,5,Medium Risk
+1002,Priya Mathur,EEE,5,92,40,3,3,Medium Risk
+1003,Lokesh Nair,EEE,5,75,57,3,5,Medium Risk
+1004,Lalit Verma,EEE,5,86,74,1,0,Safe
+1005,Naveen Sharma,ECE,5,57,90,1,1,Medium Risk
+1006,Nisha Patel,IT,5,51,52,6,5,Medium Risk
+1007,Rohan Kapoor,EEE,5,83,58,3,4,Medium Risk
+1008,Riya Kapoor,ECE,5,99,57,3,5,Medium Risk
+1009,Priti Verma,IT,5,67,87,2,1,Medium Risk
+1010,Shreya Chopra,EEE,5,60,45,2,0,Medium Risk
+1011,Farhan Reddy,CSE,5,66,33,5,0,High Risk
+1012,Nikhil Patel,CSE,5,59,44,4,3,Medium Risk
+1013,Bharti Sharma,CSE,5,95,91,4,1,Safe
+1014,Imran Chopra,IT,5,80,62,6,4,Medium Risk
+1015,Faiz Chopra,EEE,5,96,29,3,1,Safe
+1016,Preethi Mehta,ECE,5,65,100,1,2,Medium Risk
+1017,Imran Bhat,EEE,5,81,64,6,3,Medium Risk
+1018,Bharti Kapoor,ECE,5,55,32,6,1,High Risk
+1019,Sneha Mehta,EEE,5,89,96,6,5,Medium Risk
+1020,Abhishek Shah,CSE,5,52,80,6,4,Medium Risk
+1021,Pankaj Sharma,IT,5,72,64,2,1,Medium Risk
+1022,Sahil Das,ECE,5,82,49,3,4,Medium Risk
+1023,Kishore Mathur,ECE,5,72,65,5,3,Medium Risk
+1024,Lavanya Joshi,IT,5,91,58,3,4,Medium Risk
+1025,Venu Chopra,CSE,5,88,75,5,3,Medium Risk
+1026,Sunil Reddy,ECE,5,66,96,4,3,Medium Risk
+1027,Siddharth Shah,EEE,5,81,27,4,5,Medium Risk
+1028,Nisha Kumar,CSE,5,79,75,1,5,Medium Risk
+1029,Nandini Shah,ECE,5,54,60,2,5,Medium Risk
+1030,Mahesh Gupta,EEE,5,84,83,3,2,Safe
+1031,Rahul Joshi,EEE,5,75,75,4,2,Safe
+1032,Pawan Nair,IT,5,62,66,6,0,Medium Risk
+1033,Pankaj Patel,IT,5,66,78,4,0,Medium Risk
+1034,Pooja Choudhary,CSE,5,95,76,6,1,Safe
+1035,Komal Patel,ECE,5,50,64,1,3,Medium Risk
+1036,Farah Patel,ECE,5,90,39,2,3,Medium Risk
+1037,Faiz Shah,ECE,5,50,33,5,2,High Risk
+1038,Pankaj Bhat,CSE,5,97,43,2,2,Safe
+1039,Sahil Singh,EEE,5,85,90,4,1,Safe
+1040,Lokesh Malhotra,IT,5,85,29,4,3,Medium Risk
+1041,Pranav Kapoor,IT,5,95,93,4,0,Safe
+1042,Karthik Saxena,EEE,5,62,78,2,5,Medium Risk
+1043,Varun Saxena,CSE,5,71,77,4,2,Medium Risk
+1044,Sakshi Reddy,ECE,5,86,29,6,0,Safe
+1045,Meera Patel,ECE,5,59,41,1,0,Medium Risk
+1046,Neha Das,EEE,5,94,88,6,5,Medium Risk
+1047,Bhavya Saxena,CSE,5,52,56,4,4,Medium Risk
+1048,Ramesh Kapoor,IT,5,68,37,4,0,High Risk
+1049,Girish Malhotra,ECE,5,64,76,5,0,Medium Risk
+1050,Vikram Bhat,ECE,5,58,32,4,1,High Risk
+1051,Irfan Mehta,ECE,5,59,96,4,5,Medium Risk
+1052,Karthik Gupta,IT,5,54,93,1,5,Medium Risk
+1053,Rajesh Shah,ECE,5,98,66,2,5,Medium Risk
+1054,Kavya Sharma,ECE,5,58,96,3,2,Medium Risk
+1055,Farah Shah,CSE,5,57,70,4,4,Medium Risk
+1056,Tejas Nair,CSE,5,96,54,5,5,Medium Risk
+1057,Ila Choudhary,CSE,5,91,51,3,0,Safe
+1058,Deepak Mathur,ECE,5,66,44,1,5,Medium Risk
+1059,Aishwarya Sharma,ECE,5,85,76,1,2,Safe
+1060,Shreya Chopra,ECE,5,69,77,2,2,Medium Risk
+1061,Siddharth Kumar,CSE,5,63,79,5,1,Medium Risk
+1062,Farah Verma,CSE,5,81,50,5,3,Medium Risk
+1063,Lalit Joshi,ECE,5,87,73,6,1,Safe
+1064,Ajay Singh,IT,5,74,85,6,2,Medium Risk
+1065,Aishwarya Verma,EEE,5,55,32,4,0,High Risk
+1066,Dev Patel,EEE,5,94,99,5,3,Medium Risk
+1067,Komal Joshi,ECE,5,75,87,3,0,Safe
+1068,Divya Reddy,CSE,5,87,52,6,5,Medium Risk
+1069,Imran Nair,CSE,5,68,64,5,1,Medium Risk
+1070,Ritu Singh,CSE,5,71,84,1,0,Medium Risk
+1071,Aditya Malhotra,CSE,5,81,100,5,1,Safe
+1072,Kavya Malhotra,IT,5,56,56,3,5,Medium Risk
+1073,Tejas Gupta,IT,5,100,28,6,3,Medium Risk
+1074,Monika Choudhary,EEE,5,74,77,5,4,Medium Risk
+1075,Umesh Saxena,CSE,5,60,30,4,0,High Risk
+1076,Dev Choudhary,IT,5,95,66,5,5,Medium Risk
+1077,Lavanya Kapoor,CSE,5,58,42,6,3,Medium Risk
+1078,Sakshi Malhotra,IT,5,53,62,6,0,Medium Risk
+1079,Priya Malhotra,EEE,5,64,96,2,2,Medium Risk
+1080,Rohit Gupta,EEE,5,96,56,3,1,Safe
+1081,Aishwarya Singh,ECE,5,60,85,1,4,Medium Risk
+1082,Kavya Singh,CSE,5,67,36,6,1,High Risk
+1083,Sunil Singh,ECE,5,87,84,4,5,Medium Risk
+1084,Swathi Verma,IT,5,87,59,4,4,Medium Risk
+1085,Siddharth Kumar,ECE,5,75,77,1,4,Medium Risk
+1086,Jay Saxena,CSE,5,61,70,2,4,Medium Risk
+1087,Nikhil Joshi,ECE,5,65,96,4,0,Medium Risk
+1088,Kriti Kumar,IT,5,88,53,3,3,Medium Risk
+1089,Kriti Malhotra,ECE,5,64,25,4,3,High Risk
+1090,Nikhil Gupta,EEE,5,58,84,6,3,Medium Risk
+1091,Naresh Kapoor,IT,5,85,39,5,2,Safe
+1092,Ila Chopra,CSE,5,98,69,1,4,Medium Risk
+1093,Dinesh Verma,CSE,5,98,83,1,1,Safe
+1094,Preethi Bhat,ECE,5,50,38,3,0,High Risk
+1095,Ravi Malhotra,CSE,5,68,100,3,2,Medium Risk
+1096,Sneha Singh,CSE,5,56,37,3,1,High Risk
+1097,Sahil Patel,CSE,5,95,79,4,3,Medium Risk
+1098,Ankita Chopra,IT,5,60,64,5,4,Medium Risk
+1099,Swathi Das,IT,5,77,100,3,1,Safe
+1100,Aarav Malhotra,ECE,5,87,79,6,2,Safe
+1101,Girish Shah,CSE,5,79,44,6,0,Safe
+1102,Pawan Nair,ECE,5,99,36,2,2,Safe
+1103,Ananya Reddy,ECE,5,83,29,5,2,Safe
+1104,Shreya Saxena,CSE,5,54,86,4,5,Medium Risk
+1105,Pallavi Nair,IT,5,50,26,4,2,High Risk
+1106,Sanjay Joshi,IT,5,77,76,5,1,Safe
+1107,Bharti Joshi,IT,5,80,76,2,2,Safe
+1108,Mohan Kumar,ECE,5,88,76,2,3,Medium Risk
+1109,Divya Mehta,EEE,5,96,50,5,1,Safe
+1110,Ajay Sharma,EEE,5,59,75,4,0,Medium Risk
+1111,Swathi Joshi,EEE,5,91,30,2,2,Safe
+1112,Nikhil Nair,ECE,5,91,51,4,0,Safe
+1113,Meera Patel,CSE,5,93,33,5,0,Safe
+1114,Zoya Kapoor,ECE,5,56,29,2,3,High Risk
+1115,Kavya Malhotra,IT,5,53,33,2,2,High Risk
+1116,Tejas Kumar,ECE,5,94,27,2,3,Medium Risk
+1117,Lalit Nair,EEE,5,77,40,1,1,Safe
+1118,Irfan Jain,CSE,5,76,93,1,0,Safe
+1119,Mohan Bhat,EEE,5,85,81,1,4,Medium Risk
+1120,Ritu Kumar,EEE,5,53,65,2,4,Medium Risk
+1121,Lavanya Patel,ECE,5,76,67,5,1,Safe
+1122,Vinay Jain,ECE,5,56,65,1,3,Medium Risk
+1123,Pooja Chopra,ECE,5,86,75,3,3,Medium Risk
+1124,Riya Reddy,ECE,5,99,74,5,4,Medium Risk
+1125,Nikhil Choudhary,EEE,5,57,60,2,3,Medium Risk
+1126,Harsha Choudhary,EEE,5,75,67,1,2,Safe
+1127,Tarun Das,ECE,5,99,27,3,5,Medium Risk
+1128,Sneha Reddy,EEE,5,56,86,4,4,Medium Risk
+1129,Dinesh Singh,EEE,5,77,94,4,1,Safe
+1130,Bharti Chopra,IT,5,50,64,4,3,Medium Risk
+1131,Lalit Kapoor,CSE,5,55,54,2,1,Medium Risk
+1132,Imran Nair,IT,5,57,49,5,2,Medium Risk
+1133,Aarav Saxena,IT,5,78,26,4,2,Safe
+1134,Shreya Malhotra,ECE,5,99,73,2,1,Safe
+1135,Naresh Reddy,EEE,5,55,61,1,1,Medium Risk
+1136,Umesh Verma,EEE,5,94,78,4,5,Medium Risk
+1137,Suraj Kapoor,EEE,5,97,60,5,0,Safe
+1138,Riya Mathur,IT,5,72,85,2,3,Medium Risk
+1139,Karan Singh,EEE,5,85,48,4,4,Medium Risk
+1140,Sanjay Chopra,ECE,5,55,90,1,4,Medium Risk
+1141,Manoj Mehta,EEE,5,81,90,1,1,Safe
+1142,Arjun Patel,IT,5,62,30,2,4,High Risk
+1143,Pranav Bhat,EEE,5,85,45,2,4,Medium Risk
+1144,Tejas Verma,IT,5,58,92,6,4,Medium Risk
+1145,Venu Choudhary,IT,5,76,100,1,1,Safe
+1146,Priti Verma,CSE,5,86,28,2,4,Medium Risk
+1147,Balaji Chopra,EEE,5,73,85,5,4,Medium Risk
+1148,Arjun Malhotra,ECE,5,84,82,4,2,Safe
+1149,Venu Mathur,CSE,5,56,35,3,5,High Risk
+1150,Ila Mathur,IT,5,62,36,5,2,High Risk
+1151,Pooja Choudhary,EEE,5,98,54,4,5,Medium Risk
+1152,Ritu Mehta,EEE,5,93,41,4,4,Medium Risk
+1153,Zoya Verma,IT,5,62,74,1,0,Medium Risk
+1154,Suresh Sharma,IT,5,57,85,6,3,Medium Risk
+1155,Akash Kapoor,CSE,5,99,37,3,3,Medium Risk
+1156,Rohan Jain,ECE,5,52,99,1,1,Medium Risk
+1157,Vinay Singh,EEE,5,83,46,5,1,Safe
+1158,Venu Jain,IT,5,89,67,2,1,Safe
+1159,Dev Malhotra,IT,5,98,67,6,1,Safe
+1160,Siddharth Joshi,ECE,5,57,63,2,4,Medium Risk
+1161,Karthik Verma,EEE,5,81,94,3,3,Medium Risk
+1162,Vikram Singh,ECE,5,52,96,2,3,Medium Risk
+1163,Apoorva Kumar,IT,5,66,25,4,2,High Risk
+1164,Aarav Joshi,IT,5,61,66,1,4,Medium Risk
+1165,Sneha Sharma,ECE,5,50,64,1,0,Medium Risk
+1166,Kunal Kumar,ECE,5,98,69,6,5,Medium Risk
+1167,Varun Saxena,IT,5,53,88,5,5,Medium Risk
+1168,Kriti Saxena,EEE,5,61,100,6,0,Medium Risk
+1169,Jay Saxena,EEE,5,69,29,2,0,High Risk
+1170,Aakash Mathur,IT,5,97,39,2,1,Safe
+1171,Ajay Mathur,CSE,5,99,69,2,0,Safe
+1172,Abhishek Mathur,EEE,5,61,90,4,2,Medium Risk
+1173,Lavanya Kapoor,EEE,5,80,45,3,0,Safe
+1174,Sakshi Shah,ECE,5,82,83,1,1,Safe
+1175,Rekha Nair,IT,5,81,56,1,5,Medium Risk
+1176,Priya Mehta,EEE,5,71,87,5,4,Medium Risk
+1177,Apoorva Mehta,EEE,5,69,99,5,2,Medium Risk
+1178,Suresh Patel,IT,5,53,75,4,4,Medium Risk
+1179,Venu Choudhary,ECE,5,67,87,3,5,Medium Risk
+1180,Pooja Chopra,IT,5,90,27,4,3,Medium Risk
+1181,Priya Chopra,IT,5,69,53,4,1,Medium Risk
+1182,Pallavi Joshi,IT,5,93,87,3,5,Medium Risk
+1183,Riya Patel,IT,5,69,87,5,1,Medium Risk
+1184,Anu Sharma,IT,5,65,58,3,4,Medium Risk
+1185,Dinesh Bhat,ECE,5,95,70,3,3,Medium Risk
+1186,Pankaj Malhotra,EEE,5,61,90,2,4,Medium Risk
+1187,Manoj Shah,ECE,5,82,65,2,1,Safe
+1188,Rahul Gupta,CSE,5,86,32,5,4,Medium Risk
+1189,Aishwarya Chopra,EEE,5,73,40,2,5,Medium Risk
+1190,Jay Bhat,CSE,5,60,91,1,5,Medium Risk
+1191,Kunal Jain,ECE,5,67,28,4,4,High Risk
+1192,Priya Nair,CSE,5,74,83,1,2,Medium Risk
+1193,Mohan Verma,CSE,5,92,32,6,5,Medium Risk
+1194,Pooja Kapoor,IT,5,100,79,3,5,Medium Risk
+1195,Ila Choudhary,IT,5,84,49,1,4,Medium Risk
+1196,Sanjay Chopra,ECE,5,98,41,6,3,Medium Risk
+1197,Girish Das,IT,5,59,90,3,2,Medium Risk
+1198,Sanjay Saxena,ECE,5,54,25,1,0,High Risk
+1199,Divya Das,IT,5,62,41,1,2,Medium Risk
+1200,Kavya Bhat,ECE,5,93,92,2,4,Medium Risk
+1201,Riya Verma,IT,5,81,84,3,5,Medium Risk
+1202,Ritu Reddy,CSE,5,61,31,4,0,High Risk
+1203,Jay Verma,CSE,5,73,34,2,4,High Risk
+1204,Anu Kumar,CSE,5,60,26,5,2,High Risk
+1205,Ila Sharma,ECE,5,76,75,4,1,Safe
+1206,Amit Chopra,EEE,5,61,55,3,3,Medium Risk
+1207,Apoorva Saxena,EEE,5,91,88,4,4,Medium Risk
+1208,Mohan Reddy,IT,5,100,34,1,0,Safe
+1209,Deepak Jain,EEE,5,86,40,1,3,Medium Risk
+1210,Nikhil Kapoor,ECE,5,59,98,5,0,Medium Risk
+1211,Pawan Gupta,ECE,5,50,74,6,2,Medium Risk
+1212,Dinesh Gupta,IT,5,67,89,6,4,Medium Risk
+1213,Pallavi Kumar,ECE,5,79,95,1,4,Medium Risk
+1214,Ila Kapoor,EEE,5,80,99,5,0,Safe
+1215,Rohit Mehta,CSE,5,82,27,5,3,Medium Risk
+1216,Ankita Nair,IT,5,91,38,2,3,Medium Risk
+1217,Anu Singh,ECE,5,77,82,1,3,Medium Risk
+1218,Suresh Patel,EEE,5,94,77,3,2,Safe
+1219,Arjun Kapoor,EEE,5,74,35,6,2,High Risk
+1220,Ishita Singh,ECE,5,87,37,6,2,Safe
+1221,Nikhil Mehta,EEE,5,54,77,3,3,Medium Risk
+1222,Aarav Das,IT,5,58,61,2,1,Medium Risk
+1223,Mahesh Chopra,EEE,5,61,29,6,4,High Risk
+1224,Lokesh Malhotra,IT,5,94,62,2,3,Medium Risk
+1225,Suresh Das,ECE,5,50,85,4,1,Medium Risk
+1226,Rohini Das,IT,5,58,78,3,3,Medium Risk
+1227,Monika Gupta,CSE,5,52,72,6,3,Medium Risk
+1228,Pankaj Nair,ECE,5,69,47,4,0,Medium Risk
+1229,Yash Bhat,IT,5,93,48,6,4,Medium Risk
+1230,Dev Mehta,EEE,5,66,83,2,2,Medium Risk
+1231,Ajay Kapoor,EEE,5,85,100,3,3,Medium Risk
+1232,Ramesh Joshi,CSE,5,100,40,2,2,Safe
+1233,Nandini Joshi,EEE,5,85,88,1,0,Safe
+1234,Keerthi Shah,ECE,5,83,79,5,3,Medium Risk
+1235,Bhavya Malhotra,ECE,5,88,100,5,3,Medium Risk
+1236,Tanvi Shah,IT,5,54,35,1,2,High Risk
+1237,Harsha Nair,IT,5,93,50,5,0,Safe
+1238,Snehal Joshi,EEE,5,92,86,4,0,Safe
+1239,Riya Singh,ECE,5,94,96,4,2,Safe
+1240,Komal Chopra,IT,5,84,50,2,3,Medium Risk
+1241,Ankita Kumar,EEE,5,82,27,3,1,Safe
+1242,Ramesh Nair,CSE,5,97,82,2,2,Safe
+1243,Preethi Bhat,EEE,5,94,36,5,4,Medium Risk
+1244,Manoj Sharma,EEE,5,59,99,1,1,Medium Risk
+1245,Aarav Joshi,ECE,5,77,51,3,0,Safe
+1246,Rajesh Bhat,ECE,5,91,83,2,1,Safe
+1247,Akash Malhotra,IT,5,64,76,4,0,Medium Risk
+1248,Yash Singh,CSE,5,83,100,5,1,Safe
+1249,Aditya Das,IT,5,76,58,2,0,Safe
+1250,Sakshi Choudhary,IT,5,60,96,5,2,Medium Risk
+1251,Arjun Shah,IT,5,62,36,6,4,High Risk
+1252,Manoj Choudhary,EEE,5,53,54,3,1,Medium Risk
+1253,Pooja Choudhary,EEE,5,51,67,2,5,Medium Risk
+1254,Venu Choudhary,ECE,5,55,45,2,5,Medium Risk
+1255,Sunil Gupta,IT,5,53,26,3,1,High Risk
+1256,Nandini Chopra,CSE,5,68,38,5,2,High Risk
+1257,Abhishek Sharma,CSE,5,52,46,3,0,Medium Risk
+1258,Riya Kapoor,CSE,5,51,70,5,0,Medium Risk
+1259,Tarun Choudhary,EEE,5,64,67,5,2,Medium Risk
+1260,Kavya Malhotra,ECE,5,98,96,3,4,Medium Risk
+1261,Aishwarya Patel,IT,5,89,44,6,1,Safe
+1262,Rohan Kumar,IT,5,94,32,6,1,Safe
+1263,Aarav Joshi,CSE,5,99,88,3,2,Safe
+1264,Meera Kumar,IT,5,92,83,3,3,Medium Risk
+1265,Rohit Verma,ECE,5,62,72,1,2,Medium Risk
+1266,Sahil Verma,EEE,5,53,75,2,1,Medium Risk
+1267,Anu Patel,CSE,5,78,94,5,0,Safe
+1268,Rajesh Bhat,IT,5,69,41,1,0,Medium Risk
+1269,Faiz Kumar,IT,5,70,65,2,3,Medium Risk
+1270,Rekha Das,IT,5,57,96,4,5,Medium Risk
+1271,Zoya Joshi,IT,5,60,91,5,3,Medium Risk
+1272,Nikhil Saxena,CSE,5,99,78,2,3,Medium Risk
+1273,Pankaj Choudhary,IT,5,56,27,2,5,High Risk
+1274,Suman Patel,EEE,5,54,88,6,3,Medium Risk
+1275,Monika Patel,IT,5,57,88,3,0,Medium Risk
+1276,Imran Das,EEE,5,56,39,1,2,High Risk
+1277,Nikhil Verma,ECE,5,67,80,4,2,Medium Risk
+1278,Suman Saxena,EEE,5,58,51,4,4,Medium Risk
+1279,Mahesh Chopra,CSE,5,61,27,2,5,High Risk
+1280,Mahesh Choudhary,EEE,5,58,45,1,5,Medium Risk
+1281,Kishore Reddy,CSE,5,82,31,6,1,Safe
+1282,Dev Joshi,CSE,5,74,84,1,2,Medium Risk
+1283,Rajesh Shah,EEE,5,57,75,3,3,Medium Risk
+1284,Mahesh Chopra,EEE,5,51,42,5,4,Medium Risk
+1285,Mahesh Kapoor,ECE,5,75,79,4,5,Medium Risk
+1286,Rekha Malhotra,IT,5,96,57,5,1,Safe
+1287,Abhishek Saxena,EEE,5,83,34,6,2,Safe
+1288,Bhavya Bhat,CSE,5,71,97,6,1,Medium Risk
+1289,Bhavya Patel,ECE,5,56,69,1,5,Medium Risk
+1290,Venu Mathur,EEE,5,79,37,5,4,Medium Risk
+1291,Ramesh Das,CSE,5,80,66,6,3,Medium Risk
+1292,Ananya Nair,IT,5,77,67,4,3,Medium Risk
+1293,Girish Gupta,ECE,5,52,55,2,2,Medium Risk
+1294,Abhishek Singh,ECE,5,99,54,5,1,Safe
+1295,Sanjay Mehta,EEE,5,67,97,4,2,Medium Risk
+1296,Bhavya Bhat,IT,5,57,88,4,0,Medium Risk
+1297,Aarav Mehta,IT,5,51,53,1,1,Medium Risk
+1298,Harsha Kumar,IT,5,99,83,6,5,Medium Risk
+1299,Ramesh Sharma,EEE,5,66,87,3,4,Medium Risk
+1300,Siddharth Singh,EEE,5,74,69,5,3,Medium Risk
+1301,Nandini Malhotra,EEE,5,78,64,3,0,Safe
+1302,Suraj Mehta,CSE,5,98,54,3,5,Medium Risk
+1303,Balaji Verma,ECE,5,73,58,5,4,Medium Risk
+1304,Alina Malhotra,EEE,5,96,86,6,5,Medium Risk
+1305,Divya Malhotra,ECE,5,95,54,1,5,Medium Risk
+1306,Siddharth Mathur,ECE,5,97,76,5,0,Safe
+1307,Mohan Bhat,ECE,5,87,97,3,4,Medium Risk
+1308,Ila Saxena,ECE,5,82,89,5,5,Medium Risk
+1309,Riya Kapoor,ECE,5,85,62,1,5,Medium Risk
+1310,Riya Mehta,CSE,5,69,65,3,2,Medium Risk
+1311,Sakshi Das,IT,5,97,77,5,0,Safe
+1312,Girish Gupta,CSE,5,83,84,4,4,Medium Risk
+1313,Yash Malhotra,EEE,5,71,41,6,5,Medium Risk
+1314,Suresh Jain,IT,5,76,29,5,3,Medium Risk
+1315,Sahil Singh,EEE,5,74,62,3,4,Medium Risk
+1316,Lalit Shah,ECE,5,58,35,1,4,High Risk
+1317,Ishita Saxena,CSE,5,95,53,1,1,Safe
+1318,Shalini Reddy,EEE,5,60,98,5,5,Medium Risk
+1319,Zoya Kumar,ECE,5,89,60,6,0,Safe
+1320,Karthik Bhat,IT,5,77,44,1,5,Medium Risk
+1321,Rohan Sharma,CSE,5,66,78,6,0,Medium Risk
+1322,Bhavya Shah,IT,5,69,74,2,0,Medium Risk
+1323,Ila Malhotra,IT,5,99,99,3,2,Safe
+1324,Kunal Shah,IT,5,62,99,2,5,Medium Risk
+1325,Amit Saxena,IT,5,96,100,1,5,Medium Risk
+1326,Sunil Singh,CSE,5,74,65,4,1,Medium Risk
+1327,Lokesh Mathur,IT,5,51,85,1,2,Medium Risk
+1328,Sakshi Verma,EEE,5,55,70,2,4,Medium Risk
+1329,Abhishek Malhotra,IT,5,73,54,1,2,Medium Risk
+1330,Snehal Mehta,IT,5,57,58,3,3,Medium Risk
+1331,Mitali Shah,IT,5,85,95,6,1,Safe
+1332,Rajesh Kumar,CSE,5,72,50,2,2,Medium Risk
+1333,Lavanya Chopra,CSE,5,78,82,3,1,Safe
+1334,Preethi Joshi,IT,5,85,91,6,3,Medium Risk
+1335,Karan Patel,IT,5,59,35,4,3,High Risk
+1336,Nikhil Shah,CSE,5,94,45,3,0,Safe
+1337,Rekha Bhat,EEE,5,88,90,6,3,Medium Risk
+1338,Abhishek Verma,EEE,5,74,56,2,2,Medium Risk
+1339,Arjun Gupta,EEE,5,53,37,3,3,High Risk
+1340,Aarav Saxena,EEE,5,89,64,4,5,Medium Risk
+1341,Priya Saxena,ECE,5,85,40,2,4,Medium Risk
+1342,Rekha Choudhary,EEE,5,100,80,5,0,Safe
+1343,Pallavi Reddy,EEE,5,83,88,2,2,Safe
+1344,Ishita Bhat,ECE,5,71,94,6,4,Medium Risk
+1345,Monika Das,ECE,5,75,31,4,5,Medium Risk
+1346,Neha Verma,IT,5,61,62,4,1,Medium Risk
+1347,Arjun Shah,CSE,5,52,48,4,4,Medium Risk
+1348,Sanjay Gupta,ECE,5,89,94,3,5,Medium Risk
+1349,Deepak Kumar,IT,5,58,30,3,5,High Risk
+1350,Kunal Shah,ECE,5,93,55,1,3,Medium Risk
+1351,Pallavi Mehta,IT,5,55,89,5,2,Medium Risk
+1352,Pankaj Bhat,ECE,5,98,34,4,5,Medium Risk
+1353,Keerthi Patel,ECE,5,98,41,2,3,Medium Risk
+1354,Pawan Shah,ECE,5,51,29,1,0,High Risk
+1355,Ishita Sharma,IT,5,67,49,4,0,Medium Risk
+1356,Akash Sharma,EEE,5,72,59,4,5,Medium Risk
+1357,Harsha Malhotra,EEE,5,66,67,5,3,Medium Risk
+1358,Vikram Mathur,CSE,5,75,87,3,5,Medium Risk
+1359,Nandini Mathur,EEE,5,70,86,1,0,Medium Risk
+1360,Tejas Gupta,EEE,5,66,79,6,0,Medium Risk
+1361,Aditya Shah,CSE,5,87,53,6,0,Safe
+1362,Ananya Jain,CSE,5,93,67,3,1,Safe
+1363,Rohit Verma,IT,5,64,71,3,4,Medium Risk
+1364,Jay Verma,ECE,5,97,35,6,1,Safe
+1365,Swathi Chopra,EEE,5,100,48,5,5,Medium Risk
+1366,Monika Sharma,ECE,5,87,81,4,0,Safe
+1367,Karan Singh,ECE,5,90,44,3,3,Medium Risk
+1368,Sunil Patel,CSE,5,99,50,4,0,Safe
+1369,Imran Saxena,IT,5,68,65,5,5,Medium Risk
+1370,Snehal Kapoor,IT,5,68,83,6,1,Medium Risk
+1371,Kavya Malhotra,EEE,5,70,45,2,2,Medium Risk
+1372,Akash Nair,CSE,5,64,75,1,2,Medium Risk
+1373,Preethi Jain,ECE,5,82,89,6,1,Safe
+1374,Vikram Joshi,CSE,5,77,62,4,2,Safe
+1375,Aishwarya Mathur,EEE,5,89,48,4,3,Medium Risk
+1376,Lokesh Jain,ECE,5,60,94,5,2,Medium Risk
+1377,Tanvi Malhotra,CSE,5,58,74,3,4,Medium Risk
+1378,Anu Bhat,CSE,5,55,28,5,3,High Risk
+1379,Mahesh Jain,ECE,5,92,47,6,0,Safe
+1380,Rahul Sharma,ECE,5,72,88,3,3,Medium Risk
+1381,Nisha Kumar,EEE,5,78,51,5,4,Medium Risk
+1382,Farah Kumar,EEE,5,59,95,3,3,Medium Risk
+1383,Arjun Jain,EEE,5,56,75,3,4,Medium Risk
+1384,Radhika Bhat,EEE,5,95,47,6,5,Medium Risk
+1385,Lavanya Reddy,EEE,5,61,46,5,1,Medium Risk
+1386,Siddharth Jain,EEE,5,69,45,2,4,Medium Risk
+1387,Anu Das,EEE,5,91,99,6,2,Safe
+1388,Arjun Mehta,IT,5,66,51,4,0,Medium Risk
+1389,Rahul Malhotra,ECE,5,88,87,3,3,Medium Risk
+1390,Kavya Jain,CSE,5,82,46,2,2,Safe
+1391,Imran Chopra,CSE,5,77,92,5,3,Medium Risk
+1392,Priya Mehta,ECE,5,75,57,3,4,Medium Risk
+1393,Harsha Patel,CSE,5,71,91,1,0,Medium Risk
+1394,Nikhil Joshi,EEE,5,74,68,4,2,Medium Risk
+1395,Kriti Reddy,IT,5,93,55,5,1,Safe
+1396,Tarun Das,IT,5,70,73,6,4,Medium Risk
+1397,Mohan Das,IT,5,69,88,4,3,Medium Risk
+1398,Meera Sharma,EEE,5,56,92,3,5,Medium Risk
+1399,Sneha Bhat,CSE,5,62,33,4,3,High Risk
+1400,Kiran Patel,IT,5,65,77,1,0,Medium Risk
+1401,Pranav Saxena,CSE,5,73,37,5,0,High Risk
+1402,Rekha Chopra,ECE,5,98,95,1,3,Medium Risk
+1403,Radhika Patel,ECE,5,68,65,5,4,Medium Risk
+1404,Ajay Mehta,ECE,5,74,46,5,3,Medium Risk
+1405,Pallavi Sharma,ECE,5,56,41,4,5,Medium Risk
+1406,Pallavi Nair,EEE,5,65,93,6,3,Medium Risk
+1407,Varun Jain,EEE,5,91,61,5,4,Medium Risk
+1408,Venu Chopra,ECE,5,76,73,3,5,Medium Risk
+1409,Harsha Bhat,IT,5,53,25,6,5,High Risk
+1410,Suraj Choudhary,EEE,5,50,69,5,0,Medium Risk
+1411,Rahul Sharma,EEE,5,74,97,4,2,Medium Risk
+1412,Akash Singh,IT,5,61,49,3,4,Medium Risk
+1413,Sakshi Shah,EEE,5,55,50,3,0,Medium Risk
+1414,Riya Saxena,EEE,5,95,85,4,5,Medium Risk
+1415,Aishwarya Sharma,IT,5,67,57,3,2,Medium Risk
+1416,Suresh Sharma,CSE,5,79,72,6,2,Safe
+1417,Nikhil Verma,ECE,5,80,37,5,2,Safe
+1418,Dinesh Sharma,EEE,5,59,38,5,3,High Risk
+1419,Akash Mathur,EEE,5,78,78,4,5,Medium Risk
+1420,Sanjay Joshi,EEE,5,83,75,4,3,Medium Risk
+1421,Harsha Chopra,ECE,5,62,75,1,3,Medium Risk
+1422,Suresh Mathur,IT,5,90,80,2,1,Safe
+1423,Sahil Singh,EEE,5,60,55,2,5,Medium Risk
+1424,Mitali Choudhary,EEE,5,52,55,1,0,Medium Risk
+1425,Keerthi Joshi,EEE,5,79,58,2,1,Safe
+1426,Nikhil Malhotra,EEE,5,56,86,3,3,Medium Risk
+1427,Zoya Verma,EEE,5,82,98,3,2,Safe
+1428,Siddharth Chopra,IT,5,74,90,5,4,Medium Risk
+1429,Aakash Shah,CSE,5,85,81,5,4,Medium Risk
+1430,Harsha Chopra,CSE,5,91,37,2,2,Safe
+1431,Sahil Gupta,ECE,5,59,32,4,2,High Risk
+1432,Rekha Joshi,ECE,5,52,100,4,2,Medium Risk
+1433,Rohit Kapoor,EEE,5,75,66,2,5,Medium Risk
+1434,Amit Nair,IT,5,83,95,3,0,Safe
+1435,Kiran Kumar,IT,5,51,71,6,5,Medium Risk
+1436,Simran Mathur,ECE,5,68,34,2,5,High Risk
+1437,Priya Joshi,CSE,5,98,95,6,4,Medium Risk
+1438,Anu Jain,IT,5,54,59,3,4,Medium Risk
+1439,Harsha Kapoor,CSE,5,74,96,4,1,Medium Risk
+1440,Lokesh Choudhary,EEE,5,71,68,2,4,Medium Risk
+1441,Ritu Patel,CSE,5,58,53,6,5,Medium Risk
+1442,Radhika Das,ECE,5,84,57,1,3,Medium Risk
+1443,Mitali Reddy,ECE,5,69,67,4,4,Medium Risk
+1444,Vikram Mathur,CSE,5,90,30,5,2,Safe
+1445,Farhan Saxena,IT,5,51,53,2,3,Medium Risk
+1446,Abhishek Jain,IT,5,93,39,2,0,Safe
+1447,Rekha Gupta,IT,5,63,49,5,5,Medium Risk
+1448,Farah Mehta,ECE,5,67,86,6,5,Medium Risk
+1449,Priya Bhat,EEE,5,93,94,6,5,Medium Risk
+1450,Karthik Reddy,ECE,5,100,31,3,2,Safe
+1451,Radhika Shah,ECE,5,97,82,6,4,Medium Risk
+1452,Irfan Jain,IT,5,64,88,1,3,Medium Risk
+1453,Naveen Shah,IT,5,71,80,4,0,Medium Risk
+1454,Imran Verma,ECE,5,98,31,4,0,Safe
+1455,Kishore Kapoor,IT,5,60,55,2,2,Medium Risk
+1456,Pranav Das,IT,5,95,77,3,4,Medium Risk
+1457,Kavya Das,ECE,5,69,44,3,3,Medium Risk
+1458,Zoya Chopra,IT,5,59,85,4,1,Medium Risk
+1459,Mohan Chopra,EEE,5,66,33,5,2,High Risk
+1460,Ramesh Mathur,IT,5,63,28,2,0,High Risk
+1461,Naresh Das,EEE,5,87,35,6,2,Safe
+1462,Farhan Choudhary,ECE,5,73,87,4,3,Medium Risk
+1463,Aakash Das,EEE,5,80,29,1,4,Medium Risk
+1464,Divya Bhat,IT,5,59,71,1,5,Medium Risk
+1465,Bharti Saxena,CSE,5,100,39,6,4,Medium Risk
+1466,Farah Kapoor,IT,5,54,91,1,4,Medium Risk
+1467,Ananya Reddy,EEE,5,95,36,5,1,Safe
+1468,Shalini Das,CSE,5,59,74,4,3,Medium Risk
+1469,Ananya Kumar,EEE,5,52,77,5,3,Medium Risk
+1470,Dev Das,CSE,5,78,55,2,1,Safe
+1471,Kavya Bhat,EEE,5,84,72,1,0,Safe
+1472,Rohit Bhat,IT,5,50,81,1,5,Medium Risk
+1473,Monika Patel,ECE,5,94,34,6,0,Safe
+1474,Mitali Saxena,EEE,5,82,42,3,2,Safe
+1475,Kriti Gupta,IT,5,50,54,6,0,Medium Risk
+1476,Riya Malhotra,EEE,5,94,89,5,1,Safe
+1477,Karthik Mathur,EEE,5,93,25,4,1,Safe
+1478,Sahil Mathur,CSE,5,68,89,3,0,Medium Risk
+1479,Rohini Bhat,CSE,5,74,89,5,0,Medium Risk
+1480,Mahesh Patel,ECE,5,60,28,1,0,High Risk
+1481,Meera Verma,ECE,5,96,27,4,3,Medium Risk
+1482,Aakash Saxena,IT,5,66,68,6,4,Medium Risk
+1483,Lalit Mehta,IT,5,89,57,2,4,Medium Risk
+1484,Manoj Jain,ECE,5,51,97,6,2,Medium Risk
+1485,Kriti Reddy,EEE,5,67,53,2,2,Medium Risk
+1486,Rajesh Verma,EEE,5,62,41,3,3,Medium Risk
+1487,Alina Joshi,CSE,5,79,45,5,1,Safe
+1488,Ritu Malhotra,EEE,5,99,81,3,0,Safe
+1489,Suman Reddy,EEE,5,96,58,2,0,Safe
+1490,Amit Mathur,IT,5,100,72,3,1,Safe
+1491,Divya Singh,ECE,5,90,75,3,3,Medium Risk
+1492,Akash Kumar,ECE,5,67,64,1,5,Medium Risk
+1493,Alina Sharma,ECE,5,57,40,1,4,Medium Risk
+1494,Sunil Nair,ECE,5,63,30,1,1,High Risk
+1495,Faiz Verma,CSE,5,94,47,1,4,Medium Risk
+1496,Naresh Shah,CSE,5,85,41,2,0,Safe
+1497,Mitali Mehta,CSE,5,89,26,6,4,Medium Risk
+1498,Tejas Verma,IT,5,60,71,2,1,Medium Risk
+1499,Karan Kapoor,IT,5,94,57,4,1,Safe
+1500,Ila Kumar,IT,5,87,72,2,5,Medium Risk
+1501,Ishita Choudhary,CSE,5,82,72,5,3,Medium Risk
+1502,Komal Kumar,CSE,5,83,84,3,4,Medium Risk
+1503,Suman Gupta,EEE,5,63,28,2,0,High Risk
+1504,Rekha Sharma,ECE,5,85,53,6,4,Medium Risk
+1505,Bharti Chopra,IT,5,94,73,1,4,Medium Risk
+1506,Karthik Choudhary,ECE,5,72,54,3,2,Medium Risk
+1507,Ajay Mathur,IT,5,94,100,5,2,Safe
+1508,Priya Chopra,ECE,5,91,97,4,4,Medium Risk
+1509,Ajay Chopra,EEE,5,70,97,6,2,Medium Risk
+1510,Aakash Verma,IT,5,89,75,6,4,Medium Risk
+1511,Imran Chopra,ECE,5,67,68,1,0,Medium Risk
+1512,Tejas Sharma,CSE,5,85,59,3,5,Medium Risk
+1513,Keerthi Das,IT,5,94,71,3,0,Safe
+1514,Zoya Reddy,ECE,5,65,50,4,0,Medium Risk
+1515,Monika Kumar,CSE,5,73,76,1,3,Medium Risk
+1516,Dinesh Choudhary,IT,5,71,68,1,4,Medium Risk
+1517,Yash Sharma,EEE,5,73,39,3,3,High Risk
+1518,Ila Sharma,EEE,5,57,25,3,5,High Risk
+1519,Balaji Gupta,EEE,5,90,84,4,1,Safe
+1520,Sanjay Bhat,CSE,5,96,84,1,5,Medium Risk
+1521,Riya Singh,CSE,5,79,33,4,2,Safe
+1522,Amit Malhotra,CSE,5,71,76,5,4,Medium Risk
+1523,Yash Nair,CSE,5,79,45,2,1,Safe
+1524,Monika Verma,EEE,5,92,63,5,0,Safe
+1525,Neha Mehta,CSE,5,65,33,1,1,High Risk
+1526,Siddharth Jain,IT,5,89,80,4,0,Safe
+1527,Shreya Saxena,IT,5,52,54,5,2,Medium Risk
+1528,Anu Chopra,CSE,5,69,53,2,0,Medium Risk
+1529,Suman Chopra,CSE,5,91,33,6,5,Medium Risk
+1530,Lokesh Kumar,EEE,5,68,77,3,3,Medium Risk
+1531,Mitali Kapoor,ECE,5,54,68,4,5,Medium Risk
+1532,Pankaj Mathur,ECE,5,80,56,4,4,Medium Risk
+1533,Bhavya Saxena,CSE,5,67,58,2,2,Medium Risk
+1534,Karan Mathur,ECE,5,80,28,5,2,Safe
+1535,Divya Singh,CSE,5,62,56,4,4,Medium Risk
+1536,Ila Joshi,CSE,5,91,65,1,3,Medium Risk
+1537,Neha Choudhary,EEE,5,67,64,1,2,Medium Risk
+1538,Ajay Gupta,EEE,5,97,85,3,2,Safe
+1539,Manoj Verma,ECE,5,68,57,4,4,Medium Risk
+1540,Snehal Verma,IT,5,76,63,1,3,Medium Risk
+1541,Ishita Kapoor,EEE,5,98,31,4,2,Safe
+1542,Aarav Chopra,IT,5,82,96,4,0,Safe
+1543,Nandini Choudhary,IT,5,72,64,4,2,Medium Risk
+1544,Shalini Mehta,CSE,5,77,88,1,1,Safe
+1545,Ankita Das,IT,5,68,52,6,0,Medium Risk
+1546,Ishita Shah,ECE,5,91,40,2,3,Medium Risk
+1547,Deepak Chopra,IT,5,100,43,1,1,Safe
+1548,Pankaj Chopra,ECE,5,76,78,6,0,Safe
+1549,Farah Bhat,IT,5,89,51,4,1,Safe
+1550,Bhavya Reddy,ECE,5,64,84,4,3,Medium Risk
+1551,Lavanya Joshi,ECE,5,50,58,5,1,Medium Risk
+1552,Alina Nair,CSE,5,98,40,1,0,Safe
+1553,Sunil Malhotra,ECE,5,92,95,1,2,Safe
+1554,Kunal Jain,EEE,5,67,81,6,1,Medium Risk
+1555,Noor Chopra,EEE,5,60,51,4,1,Medium Risk
+1556,Sanjay Choudhary,ECE,5,70,77,6,3,Medium Risk
+1557,Radhika Mathur,ECE,5,84,54,1,3,Medium Risk
+1558,Riya Bhat,CSE,5,67,76,2,5,Medium Risk
+1559,Dinesh Mathur,EEE,5,90,48,5,1,Safe
+1560,Irfan Chopra,ECE,5,67,63,3,5,Medium Risk
+1561,Mitali Singh,CSE,5,53,88,2,5,Medium Risk
+1562,Priya Mehta,EEE,5,90,87,6,0,Safe
+1563,Priti Saxena,ECE,5,70,49,5,0,Medium Risk
+1564,Karan Shah,EEE,5,90,56,1,4,Medium Risk
+1565,Aarav Bhat,EEE,5,76,50,6,0,Safe
+1566,Nisha Joshi,CSE,5,86,42,4,0,Safe
+1567,Bhavya Mathur,IT,5,61,66,4,0,Medium Risk
+1568,Abhishek Jain,CSE,5,52,82,3,0,Medium Risk
+1569,Kishore Das,EEE,5,72,73,2,0,Medium Risk
+1570,Vinay Mehta,IT,5,57,94,2,1,Medium Risk
+1571,Noor Nair,CSE,5,54,36,3,2,High Risk
+1572,Riya Gupta,CSE,5,99,71,3,2,Safe
+1573,Aakash Reddy,CSE,5,53,71,2,1,Medium Risk
+1574,Ishita Jain,ECE,5,59,62,4,1,Medium Risk
+1575,Zoya Sharma,ECE,5,57,64,3,1,Medium Risk
+1576,Shalini Kumar,ECE,5,85,58,6,2,Safe
+1577,Priya Kapoor,ECE,5,56,100,4,2,Medium Risk
+1578,Pawan Bhat,EEE,5,61,60,2,4,Medium Risk
+1579,Dinesh Patel,CSE,5,90,33,5,5,Medium Risk
+1580,Lavanya Jain,EEE,5,88,29,1,1,Safe
+1581,Arjun Sharma,ECE,5,59,31,2,0,High Risk
+1582,Kriti Kapoor,CSE,5,60,28,6,5,High Risk
+1583,Lokesh Joshi,CSE,5,84,90,6,5,Medium Risk
+1584,Rajesh Gupta,IT,5,94,86,4,2,Safe
+1585,Ajay Jain,CSE,5,69,68,5,3,Medium Risk
+1586,Divya Jain,CSE,5,93,59,3,5,Medium Risk
+1587,Apoorva Verma,IT,5,86,50,3,1,Safe
+1588,Nisha Kumar,IT,5,85,51,3,5,Medium Risk
+1589,Rahul Saxena,CSE,5,53,94,2,2,Medium Risk
+1590,Alina Jain,CSE,5,71,42,1,3,Medium Risk
+1591,Meera Verma,CSE,5,97,70,3,4,Medium Risk
+1592,Lavanya Verma,ECE,5,83,30,1,5,Medium Risk
+1593,Karthik Malhotra,IT,5,91,99,1,5,Medium Risk
+1594,Noor Singh,IT,5,73,48,4,4,Medium Risk
+1595,Akash Choudhary,CSE,5,56,93,4,0,Medium Risk
+1596,Ramesh Das,EEE,5,100,47,1,2,Safe
+1597,Bharti Das,ECE,5,50,93,3,3,Medium Risk
+1598,Pankaj Malhotra,EEE,5,87,97,3,1,Safe
+1599,Naresh Bhat,CSE,5,58,71,5,1,Medium Risk
+1600,Karan Shah,IT,5,86,27,6,2,Safe
+1601,Imran Shah,IT,5,63,99,1,5,Medium Risk
+1602,Swathi Sharma,ECE,5,61,35,4,1,High Risk
+1603,Nandini Sharma,EEE,5,51,26,4,3,High Risk
+1604,Naveen Gupta,IT,5,73,92,1,4,Medium Risk
+1605,Mohan Malhotra,EEE,5,90,35,2,3,Medium Risk
+1606,Vinay Patel,EEE,5,98,75,4,0,Safe
+1607,Noor Malhotra,CSE,5,83,91,5,2,Safe
+1608,Siddharth Patel,CSE,5,64,70,4,3,Medium Risk
+1609,Mohan Patel,ECE,5,58,91,1,0,Medium Risk
+1610,Sahil Mathur,ECE,5,57,59,3,2,Medium Risk
+1611,Nisha Saxena,IT,5,68,76,3,2,Medium Risk
+1612,Abhishek Bhat,ECE,5,92,82,1,0,Safe
+1613,Kavya Shah,ECE,5,68,84,2,4,Medium Risk
+1614,Akash Kapoor,IT,5,81,95,2,0,Safe
+1615,Jay Bhat,ECE,5,62,71,1,2,Medium Risk
+1616,Naresh Shah,ECE,5,72,34,6,1,High Risk
+1617,Apoorva Sharma,EEE,5,79,59,3,0,Safe
+1618,Alina Joshi,CSE,5,96,78,1,2,Safe
+1619,Dinesh Gupta,ECE,5,62,29,3,0,High Risk
+1620,Apoorva Sharma,CSE,5,76,31,5,5,Medium Risk
+1621,Siddharth Jain,EEE,5,59,35,4,4,High Risk
+1622,Zoya Kumar,IT,5,52,46,1,1,Medium Risk
+1623,Naveen Mehta,IT,5,60,31,6,5,High Risk
+1624,Amit Choudhary,ECE,5,97,48,2,4,Medium Risk
+1625,Mahesh Bhat,EEE,5,63,59,1,4,Medium Risk
+1626,Sneha Shah,CSE,5,91,59,1,5,Medium Risk
+1627,Ananya Singh,EEE,5,72,40,2,5,Medium Risk
+1628,Riya Mathur,IT,5,69,65,5,1,Medium Risk
+1629,Priya Choudhary,EEE,5,50,37,1,0,High Risk
+1630,Mohan Kapoor,EEE,5,90,92,5,5,Medium Risk
+1631,Swathi Verma,ECE,5,100,42,3,0,Safe
+1632,Pranav Saxena,ECE,5,60,86,2,2,Medium Risk
+1633,Apoorva Verma,ECE,5,85,99,2,5,Medium Risk
+1634,Apoorva Chopra,EEE,5,53,72,3,1,Medium Risk
+1635,Girish Mehta,EEE,5,62,83,4,5,Medium Risk
+1636,Harsha Joshi,EEE,5,78,83,6,5,Medium Risk
+1637,Snehal Jain,EEE,5,67,66,2,4,Medium Risk
+1638,Lalit Jain,IT,5,84,31,3,2,Safe
+1639,Rohan Singh,CSE,5,70,43,3,2,Medium Risk
+1640,Kriti Patel,EEE,5,63,90,6,3,Medium Risk
+1641,Shreya Mathur,EEE,5,72,79,3,0,Medium Risk
+1642,Dev Kumar,ECE,5,72,30,6,5,High Risk
+1643,Tanvi Shah,ECE,5,56,42,5,3,Medium Risk
+1644,Ankita Verma,IT,5,86,27,4,0,Safe
+1645,Arjun Chopra,EEE,5,55,59,6,5,Medium Risk
+1646,Umesh Kumar,IT,5,84,60,3,2,Safe
+1647,Rekha Joshi,ECE,5,91,53,5,2,Safe
+1648,Siddharth Sharma,IT,5,56,72,6,4,Medium Risk
+1649,Farhan Kumar,ECE,5,100,66,4,1,Safe
+1650,Dinesh Saxena,IT,5,84,34,5,1,Safe
+1651,Dev Kumar,IT,5,70,81,5,3,Medium Risk
+1652,Apoorva Shah,IT,5,78,69,6,0,Safe
+1653,Akash Mehta,CSE,5,85,35,1,0,Safe
+1654,Divya Saxena,CSE,5,86,96,4,1,Safe
+1655,Faiz Singh,CSE,5,76,30,1,1,Safe
+1656,Neha Choudhary,IT,5,72,68,1,1,Medium Risk
+1657,Simran Malhotra,CSE,5,79,55,2,1,Safe
+1658,Ramesh Singh,EEE,5,98,46,2,5,Medium Risk
+1659,Neha Patel,IT,5,54,57,3,5,Medium Risk
+1660,Ramesh Singh,EEE,5,61,40,6,1,Medium Risk
+1661,Komal Gupta,CSE,5,95,29,4,2,Safe
+1662,Vikram Mehta,ECE,5,63,93,1,5,Medium Risk
+1663,Radhika Reddy,EEE,5,93,49,1,4,Medium Risk
+1664,Aditya Jain,CSE,5,95,75,1,3,Medium Risk
+1665,Divya Das,ECE,5,79,61,5,5,Medium Risk
+1666,Rohan Choudhary,ECE,5,62,58,1,5,Medium Risk
+1667,Ila Das,ECE,5,64,25,6,1,High Risk
+1668,Kunal Chopra,CSE,5,90,70,5,5,Medium Risk
+1669,Rekha Kapoor,EEE,5,92,51,6,2,Safe
+1670,Pallavi Nair,IT,5,77,99,1,2,Safe
+1671,Monika Nair,ECE,5,80,85,5,2,Safe
+1672,Priya Sharma,CSE,5,53,95,6,2,Medium Risk
+1673,Swathi Singh,CSE,5,59,28,6,0,High Risk
+1674,Riya Reddy,EEE,5,55,46,4,5,Medium Risk
+1675,Monika Patel,EEE,5,75,74,3,5,Medium Risk
+1676,Shreya Chopra,ECE,5,72,47,1,2,Medium Risk
+1677,Sakshi Mathur,ECE,5,74,81,5,3,Medium Risk
+1678,Ananya Nair,CSE,5,55,50,5,0,Medium Risk
+1679,Venu Saxena,IT,5,90,41,5,0,Safe
+1680,Kavya Patel,ECE,5,63,25,3,0,High Risk
+1681,Arjun Singh,EEE,5,56,46,1,5,Medium Risk
+1682,Tarun Singh,IT,5,78,65,2,0,Safe
+1683,Meera Sharma,CSE,5,80,46,4,1,Safe
+1684,Suraj Saxena,EEE,5,67,45,4,4,Medium Risk
+1685,Ila Jain,CSE,5,57,44,1,4,Medium Risk
+1686,Farah Mehta,EEE,5,63,31,4,1,High Risk
+1687,Meera Nair,IT,5,67,97,5,3,Medium Risk
+1688,Zoya Kapoor,IT,5,62,42,4,5,Medium Risk
+1689,Aarav Jain,ECE,5,89,47,2,4,Medium Risk
+1690,Faiz Mehta,CSE,5,100,95,3,3,Medium Risk
+1691,Pawan Malhotra,ECE,5,59,36,2,3,High Risk
+1692,Abhishek Malhotra,EEE,5,78,49,5,1,Safe
+1693,Pallavi Gupta,CSE,5,84,85,6,4,Medium Risk
+1694,Sakshi Singh,ECE,5,92,39,6,4,Medium Risk
+1695,Suresh Mehta,CSE,5,67,97,3,0,Medium Risk
+1696,Vinay Bhat,IT,5,78,63,1,5,Medium Risk
+1697,Priti Joshi,ECE,5,52,43,5,2,Medium Risk
+1698,Farhan Mehta,CSE,5,97,36,4,0,Safe
+1699,Preethi Mehta,EEE,5,53,80,4,5,Medium Risk
+1700,Lokesh Verma,CSE,5,100,48,1,2,Safe
+1701,Rekha Choudhary,EEE,5,56,44,2,3,Medium Risk
+1702,Imran Joshi,IT,5,67,55,6,2,Medium Risk
+1703,Deepak Gupta,CSE,5,70,83,2,3,Medium Risk
+1704,Monika Kapoor,IT,5,76,77,5,4,Medium Risk
+1705,Sakshi Singh,EEE,5,79,25,5,1,Safe
+1706,Alina Mathur,IT,5,68,53,3,0,Medium Risk
+1707,Suman Sharma,ECE,5,91,95,4,3,Medium Risk
+1708,Riya Chopra,EEE,5,91,47,4,0,Safe
+1709,Bharti Choudhary,IT,5,61,85,6,3,Medium Risk
+1710,Apoorva Mehta,EEE,5,58,60,6,1,Medium Risk
+1711,Harsha Nair,CSE,5,51,92,6,2,Medium Risk
+1712,Sunil Jain,IT,5,89,80,6,3,Medium Risk
+1713,Shreya Das,ECE,5,89,91,3,5,Medium Risk
+1714,Naveen Verma,EEE,5,58,85,2,0,Medium Risk
+1715,Farhan Nair,ECE,5,74,100,1,5,Medium Risk
+1716,Akash Patel,ECE,5,100,40,6,5,Medium Risk
+1717,Preethi Malhotra,EEE,5,51,45,5,4,Medium Risk
+1718,Naresh Mehta,CSE,5,65,88,1,4,Medium Risk
+1719,Ankita Singh,EEE,5,74,65,4,3,Medium Risk
+1720,Deepak Kumar,EEE,5,83,82,4,0,Safe
+1721,Keerthi Bhat,CSE,5,95,78,5,3,Medium Risk
+1722,Kiran Das,CSE,5,93,58,4,3,Medium Risk
+1723,Vikram Mehta,CSE,5,55,29,3,1,High Risk
+1724,Yash Shah,IT,5,55,74,4,0,Medium Risk
+1725,Rajesh Shah,CSE,5,74,87,6,5,Medium Risk
+1726,Vikram Bhat,ECE,5,55,63,6,5,Medium Risk
+1727,Ritu Saxena,IT,5,93,44,1,1,Safe
+1728,Dinesh Choudhary,ECE,5,76,83,6,2,Safe
+1729,Mohan Mathur,IT,5,65,33,1,5,High Risk
+1730,Sakshi Chopra,ECE,5,54,41,3,3,Medium Risk
+1731,Pooja Patel,IT,5,81,51,4,0,Safe
+1732,Naveen Das,IT,5,70,26,6,2,High Risk
+1733,Imran Joshi,CSE,5,50,79,4,4,Medium Risk
+1734,Rohit Malhotra,IT,5,88,33,6,4,Medium Risk
+1735,Ravi Bhat,CSE,5,69,33,6,5,High Risk
+1736,Bharti Sharma,CSE,5,51,66,6,3,Medium Risk
+1737,Tanvi Joshi,CSE,5,99,74,4,1,Safe
+1738,Aarav Bhat,ECE,5,77,39,3,1,Safe
+1739,Aakash Gupta,CSE,5,87,37,5,4,Medium Risk
+1740,Sanjay Saxena,ECE,5,65,61,4,0,Medium Risk
+1741,Pankaj Choudhary,IT,5,86,67,3,4,Medium Risk
+1742,Alina Singh,IT,5,82,61,6,2,Safe
+1743,Ritu Verma,ECE,5,81,78,2,5,Medium Risk
+1744,Mitali Saxena,CSE,5,92,40,6,0,Safe
+1745,Siddharth Kumar,EEE,5,55,100,1,4,Medium Risk
+1746,Nisha Verma,IT,5,91,54,3,4,Medium Risk
+1747,Tanvi Joshi,ECE,5,94,76,3,2,Safe
+1748,Sakshi Sharma,CSE,5,53,72,4,3,Medium Risk
+1749,Aakash Joshi,IT,5,58,97,5,0,Medium Risk
+1750,Neha Mehta,IT,5,78,37,3,1,Safe
+1751,Faiz Saxena,IT,5,71,65,1,2,Medium Risk
+1752,Ananya Patel,ECE,5,59,71,4,4,Medium Risk
+1753,Suresh Das,EEE,5,56,79,1,5,Medium Risk
+1754,Mitali Kapoor,EEE,5,90,77,2,3,Medium Risk
+1755,Rohan Bhat,ECE,5,51,62,2,5,Medium Risk
+1756,Suraj Saxena,EEE,5,52,41,3,2,Medium Risk
+1757,Ila Sharma,CSE,5,99,37,2,3,Medium Risk
+1758,Suresh Saxena,IT,5,85,99,4,0,Safe
+1759,Anu Kapoor,ECE,5,92,60,6,2,Safe
+1760,Dev Nair,CSE,5,66,98,3,4,Medium Risk
+1761,Sunil Jain,IT,5,88,30,6,2,Safe
+1762,Lavanya Singh,EEE,5,66,66,3,5,Medium Risk
+1763,Preethi Gupta,ECE,5,76,72,3,1,Safe
+1764,Ramesh Kumar,CSE,5,92,81,5,2,Safe
+1765,Jay Jain,ECE,5,51,73,1,2,Medium Risk
+1766,Anu Gupta,IT,5,73,56,6,1,Medium Risk
+1767,Shalini Singh,CSE,5,89,44,3,1,Safe
+1768,Meera Saxena,ECE,5,58,89,4,1,Medium Risk
+1769,Ila Bhat,IT,5,96,25,3,4,Medium Risk
+1770,Suresh Mehta,EEE,5,60,71,1,3,Medium Risk
+1771,Rohini Malhotra,ECE,5,55,68,5,5,Medium Risk
+1772,Mahesh Choudhary,IT,5,63,72,4,1,Medium Risk
+1773,Girish Nair,EEE,5,59,74,6,2,Medium Risk
+1774,Naresh Reddy,IT,5,63,28,1,1,High Risk
+1775,Simran Kumar,ECE,5,90,29,3,0,Safe
+1776,Pooja Saxena,CSE,5,93,33,5,4,Medium Risk
+1777,Radhika Saxena,EEE,5,76,65,6,3,Medium Risk
+1778,Rohini Das,CSE,5,79,59,6,0,Safe
+1779,Priti Singh,IT,5,72,98,5,1,Medium Risk
+1780,Sneha Mathur,CSE,5,66,92,3,4,Medium Risk
+1781,Kunal Kumar,CSE,5,52,38,4,1,High Risk
+1782,Bhavya Bhat,EEE,5,80,79,1,2,Safe
+1783,Balaji Saxena,CSE,5,61,100,5,2,Medium Risk
+1784,Tarun Verma,EEE,5,63,90,2,4,Medium Risk
+1785,Sakshi Reddy,EEE,5,60,72,6,5,Medium Risk
+1786,Yash Shah,ECE,5,93,25,6,5,Medium Risk
+1787,Karan Choudhary,EEE,5,95,91,2,4,Medium Risk
+1788,Aishwarya Singh,CSE,5,85,41,5,5,Medium Risk
+1789,Ila Saxena,EEE,5,54,41,6,2,Medium Risk
+1790,Zoya Jain,EEE,5,66,99,3,1,Medium Risk
+1791,Balaji Malhotra,IT,5,94,41,1,0,Safe
+1792,Nandini Nair,CSE,5,53,84,1,3,Medium Risk
+1793,Farhan Bhat,IT,5,73,84,1,1,Medium Risk
+1794,Tarun Kumar,ECE,5,75,76,6,3,Medium Risk
+1795,Shalini Shah,ECE,5,73,26,4,1,High Risk
+1796,Kiran Malhotra,CSE,5,87,32,2,1,Safe
+1797,Arjun Shah,IT,5,53,29,5,4,High Risk
+1798,Rajesh Choudhary,CSE,5,77,34,5,5,Medium Risk
+1799,Shubham Sharma,CSE,5,56,57,6,5,Medium Risk
+1800,Manoj Mathur,IT,5,66,26,3,4,High Risk
+1801,Pankaj Das,CSE,5,60,59,6,0,Medium Risk
+1802,Tanvi Chopra,ECE,5,70,33,4,1,High Risk
+1803,Shalini Mehta,EEE,5,92,33,2,3,Medium Risk
+1804,Farhan Kapoor,IT,5,82,26,1,2,Safe
+1805,Swathi Choudhary,IT,5,84,78,1,5,Medium Risk
+1806,Lavanya Joshi,ECE,5,82,37,3,5,Medium Risk
+1807,Dev Jain,CSE,5,68,72,1,4,Medium Risk
+1808,Sneha Das,CSE,5,95,47,6,2,Safe
+1809,Kavya Patel,IT,5,52,36,4,1,High Risk
+1810,Riya Kapoor,EEE,5,50,63,1,2,Medium Risk
+1811,Kishore Verma,IT,5,73,26,1,2,High Risk
+1812,Kriti Mehta,EEE,5,65,88,5,2,Medium Risk
+1813,Ishita Mehta,ECE,5,67,52,6,1,Medium Risk
+1814,Rohit Chopra,EEE,5,98,52,1,5,Medium Risk
+1815,Rohini Choudhary,ECE,5,51,89,3,5,Medium Risk
+1816,Vikram Malhotra,CSE,5,66,73,1,0,Medium Risk
+1817,Karthik Shah,CSE,5,96,82,6,3,Medium Risk
+1818,Rajesh Das,CSE,5,86,38,5,4,Medium Risk
+1819,Radhika Saxena,EEE,5,58,34,2,3,High Risk
+1820,Karthik Shah,IT,5,58,82,6,0,Medium Risk
+1821,Kavya Kumar,ECE,5,70,39,2,1,High Risk
+1822,Aditya Sharma,ECE,5,71,90,4,3,Medium Risk
+1823,Mahesh Sharma,EEE,5,51,32,3,0,High Risk
+1824,Aakash Joshi,IT,5,56,50,3,5,Medium Risk
+1825,Sunil Saxena,IT,5,78,74,3,4,Medium Risk
+1826,Simran Nair,CSE,5,57,41,2,1,Medium Risk
+1827,Jay Kumar,ECE,5,76,80,3,1,Safe
+1828,Imran Chopra,CSE,5,86,89,2,1,Safe
+1829,Radhika Chopra,CSE,5,63,31,4,3,High Risk
+1830,Siddharth Singh,EEE,5,97,98,3,5,Medium Risk
+1831,Girish Choudhary,IT,5,59,61,3,3,Medium Risk
+1832,Rohan Singh,CSE,5,50,67,6,3,Medium Risk
+1833,Sanjay Kumar,EEE,5,96,81,6,0,Safe
+1834,Harsha Malhotra,CSE,5,90,33,4,2,Safe
+1835,Keerthi Reddy,IT,5,97,58,1,1,Safe
+1836,Monika Reddy,EEE,5,63,89,2,0,Medium Risk
+1837,Umesh Mehta,IT,5,61,85,6,0,Medium Risk
+1838,Harsha Patel,EEE,5,51,55,1,2,Medium Risk
+1839,Pawan Patel,CSE,5,76,99,3,0,Safe
+1840,Suresh Saxena,EEE,5,96,53,5,1,Safe
+1841,Karan Mathur,ECE,5,91,61,6,2,Safe
+1842,Komal Bhat,EEE,5,57,57,1,5,Medium Risk
+1843,Lokesh Reddy,IT,5,95,48,4,5,Medium Risk
+1844,Deepak Mathur,EEE,5,65,79,3,3,Medium Risk
+1845,Bharti Joshi,CSE,5,71,35,5,0,High Risk
+1846,Abhishek Das,EEE,5,55,30,4,4,High Risk
+1847,Kiran Kumar,ECE,5,57,61,1,4,Medium Risk
+1848,Tanvi Sharma,EEE,5,52,41,4,1,Medium Risk
+1849,Suresh Reddy,EEE,5,66,31,3,0,High Risk
+1850,Preethi Saxena,CSE,5,79,62,4,2,Safe
+1851,Snehal Bhat,CSE,5,75,27,1,3,Medium Risk
+1852,Komal Kapoor,IT,5,57,53,5,3,Medium Risk
+1853,Shreya Shah,ECE,5,54,60,6,0,Medium Risk
+1854,Sahil Mehta,CSE,5,53,62,1,5,Medium Risk
+1855,Suman Shah,EEE,5,100,37,6,3,Medium Risk
+1856,Ananya Singh,EEE,5,65,41,6,1,Medium Risk
+1857,Naresh Chopra,EEE,5,85,83,6,4,Medium Risk
+1858,Alina Sharma,ECE,5,59,85,3,1,Medium Risk
+1859,Girish Sharma,EEE,5,78,51,5,0,Safe
+1860,Lavanya Kumar,IT,5,88,85,2,4,Medium Risk
+1861,Shreya Kumar,IT,5,62,37,2,0,High Risk
+1862,Amit Nair,EEE,5,80,28,3,2,Safe
+1863,Bharti Jain,ECE,5,75,27,2,1,Safe
+1864,Preethi Sharma,EEE,5,91,97,5,2,Safe
+1865,Jay Shah,IT,5,78,44,5,2,Safe
+1866,Balaji Bhat,IT,5,64,65,6,5,Medium Risk
+1867,Rajesh Choudhary,CSE,5,75,66,1,5,Medium Risk
+1868,Siddharth Kumar,CSE,5,58,68,3,5,Medium Risk
+1869,Suresh Patel,ECE,5,64,30,4,4,High Risk
+1870,Dinesh Shah,IT,5,55,98,1,5,Medium Risk
+1871,Mohan Sharma,CSE,5,86,61,5,0,Safe
+1872,Karthik Gupta,IT,5,70,97,2,3,Medium Risk
+1873,Sneha Kumar,CSE,5,73,28,4,5,High Risk
+1874,Tanvi Nair,ECE,5,80,64,6,1,Safe
+1875,Pooja Mehta,ECE,5,51,82,2,4,Medium Risk
+1876,Suman Verma,ECE,5,85,59,2,0,Safe
+1877,Sneha Singh,EEE,5,95,32,1,5,Medium Risk
+1878,Sunil Gupta,ECE,5,74,30,2,3,High Risk
+1879,Suman Nair,ECE,5,79,84,1,1,Safe
+1880,Ritu Kapoor,IT,5,50,63,4,4,Medium Risk
+1881,Rekha Kapoor,ECE,5,59,86,1,3,Medium Risk
+1882,Nandini Shah,IT,5,58,26,2,3,High Risk
+1883,Suraj Joshi,IT,5,77,39,1,5,Medium Risk
+1884,Shreya Gupta,IT,5,96,72,4,0,Safe
+1885,Anu Reddy,EEE,5,99,28,1,3,Medium Risk
+1886,Naresh Patel,ECE,5,68,26,6,2,High Risk
+1887,Sneha Reddy,CSE,5,54,73,3,2,Medium Risk
+1888,Zoya Shah,IT,5,88,94,4,2,Safe
+1889,Harsha Kumar,CSE,5,60,35,4,3,High Risk
+1890,Priti Kapoor,EEE,5,76,84,1,5,Medium Risk
+1891,Simran Mehta,CSE,5,69,94,4,1,Medium Risk
+1892,Komal Mehta,ECE,5,89,90,4,2,Safe
+1893,Kriti Patel,ECE,5,88,96,6,0,Safe
+1894,Vinay Sharma,EEE,5,51,53,2,0,Medium Risk
+1895,Naresh Sharma,IT,5,71,93,1,5,Medium Risk
+1896,Balaji Patel,ECE,5,78,33,2,0,Safe
+1897,Pankaj Sharma,CSE,5,70,47,4,5,Medium Risk
+1898,Siddharth Sharma,ECE,5,82,56,2,1,Safe
+1899,Zoya Chopra,EEE,5,57,84,4,4,Medium Risk
+1900,Abhishek Jain,CSE,5,85,75,1,3,Medium Risk
+1901,Dev Das,IT,5,95,95,2,3,Medium Risk
+1902,Amit Joshi,ECE,5,50,54,3,2,Medium Risk
+1903,Dev Reddy,CSE,5,53,58,1,2,Medium Risk
+1904,Ananya Chopra,IT,5,56,71,5,1,Medium Risk
+1905,Ananya Das,EEE,5,56,97,2,0,Medium Risk
+1906,Lavanya Saxena,CSE,5,83,33,1,4,Medium Risk
+1907,Karthik Choudhary,CSE,5,51,75,1,3,Medium Risk
+1908,Pooja Reddy,EEE,5,70,70,6,5,Medium Risk
+1909,Yash Chopra,EEE,5,96,86,6,3,Medium Risk
+1910,Harsha Verma,CSE,5,61,96,6,0,Medium Risk
+1911,Irfan Kumar,IT,5,96,61,3,1,Safe
+1912,Lavanya Choudhary,IT,5,82,61,5,5,Medium Risk
+1913,Ananya Kumar,ECE,5,88,72,2,4,Medium Risk
+1914,Jay Chopra,EEE,5,94,92,6,2,Safe
+1915,Nandini Shah,ECE,5,56,37,6,0,High Risk
+1916,Zoya Saxena,IT,5,57,71,5,3,Medium Risk
+1917,Priti Verma,EEE,5,80,33,6,2,Safe
+1918,Anu Mehta,IT,5,75,81,6,1,Safe
+1919,Aishwarya Nair,ECE,5,65,43,5,3,Medium Risk
+1920,Suresh Joshi,CSE,5,87,55,4,0,Safe
+1921,Aarav Choudhary,EEE,5,80,61,1,1,Safe
+1922,Manoj Singh,ECE,5,88,56,3,5,Medium Risk
+1923,Dinesh Saxena,IT,5,78,97,5,2,Safe
+1924,Ramesh Singh,CSE,5,80,56,2,3,Medium Risk
+1925,Keerthi Shah,EEE,5,58,95,6,1,Medium Risk
+1926,Sanjay Nair,CSE,5,50,73,1,1,Medium Risk
+1927,Bhavya Das,ECE,5,76,42,5,1,Safe
+1928,Amit Bhat,CSE,5,60,50,4,1,Medium Risk
+1929,Rohit Mathur,EEE,5,62,57,2,1,Medium Risk
+1930,Kunal Kapoor,CSE,5,71,34,3,5,High Risk
+1931,Priti Das,ECE,5,59,41,5,2,Medium Risk
+1932,Pooja Das,EEE,5,64,39,1,3,High Risk
+1933,Akash Saxena,EEE,5,60,38,4,3,High Risk
+1934,Jay Gupta,CSE,5,75,72,3,2,Safe
+1935,Lavanya Patel,IT,5,57,61,6,2,Medium Risk
+1936,Rekha Patel,ECE,5,82,39,4,3,Medium Risk
+1937,Rajesh Das,ECE,5,99,39,6,2,Safe
+1938,Imran Gupta,IT,5,96,25,3,4,Medium Risk
+1939,Shreya Jain,EEE,5,66,67,1,3,Medium Risk
+1940,Sahil Verma,CSE,5,54,96,5,3,Medium Risk
+1941,Sunil Jain,CSE,5,71,32,3,2,High Risk
+1942,Rohit Joshi,ECE,5,55,79,1,3,Medium Risk
+1943,Mohan Nair,IT,5,98,79,4,0,Safe
+1944,Suraj Choudhary,ECE,5,51,73,4,5,Medium Risk
+1945,Alina Chopra,ECE,5,53,85,1,3,Medium Risk
+1946,Priya Bhat,ECE,5,96,40,4,5,Medium Risk
+1947,Alina Malhotra,IT,5,99,72,4,2,Safe
+1948,Kriti Chopra,CSE,5,57,65,4,5,Medium Risk
+1949,Alina Verma,ECE,5,54,96,2,3,Medium Risk
+1950,Snehal Verma,EEE,5,81,94,4,4,Medium Risk
+1951,Snehal Malhotra,EEE,5,98,37,5,1,Safe
+1952,Neha Kumar,ECE,5,83,73,2,3,Medium Risk
+1953,Venu Bhat,IT,5,75,42,4,3,Medium Risk
+1954,Dinesh Singh,CSE,5,81,87,3,2,Safe
+1955,Priti Verma,EEE,5,70,76,5,5,Medium Risk
+1956,Irfan Bhat,EEE,5,98,63,2,1,Safe
+1957,Manoj Nair,CSE,5,97,86,3,4,Medium Risk
+1958,Ananya Mehta,ECE,5,88,71,1,1,Safe
+1959,Dinesh Reddy,EEE,5,87,51,2,3,Medium Risk
+1960,Rohit Reddy,EEE,5,93,44,3,2,Safe
+1961,Riya Patel,CSE,5,64,30,4,2,High Risk
+1962,Bharti Das,EEE,5,91,45,4,0,Safe
+1963,Arjun Singh,CSE,5,94,64,6,5,Medium Risk
+1964,Neha Reddy,CSE,5,95,46,2,4,Medium Risk
+1965,Rohini Saxena,IT,5,60,44,5,3,Medium Risk
+1966,Simran Kapoor,CSE,5,95,26,6,0,Safe
+1967,Rohit Sharma,IT,5,57,46,3,0,Medium Risk
+1968,Ananya Sharma,IT,5,83,79,6,2,Safe
+1969,Amit Joshi,CSE,5,92,33,2,3,Medium Risk
+1970,Suman Jain,EEE,5,84,96,1,5,Medium Risk
+1971,Sahil Chopra,ECE,5,91,52,2,2,Safe
+1972,Alina Kapoor,EEE,5,68,32,6,3,High Risk
+1973,Divya Shah,IT,5,90,64,3,3,Medium Risk
+1974,Anu Malhotra,IT,5,94,53,2,4,Medium Risk
+1975,Riya Das,CSE,5,89,87,5,3,Medium Risk
+1976,Pranav Jain,ECE,5,86,98,1,3,Medium Risk
+1977,Mohan Nair,ECE,5,93,96,5,0,Safe
+1978,Nikhil Kumar,CSE,5,76,58,3,3,Medium Risk
+1979,Neha Malhotra,CSE,5,79,43,1,0,Safe
+1980,Kavya Sharma,ECE,5,83,50,2,5,Medium Risk
+1981,Siddharth Sharma,CSE,5,54,81,2,1,Medium Risk
+1982,Girish Nair,IT,5,97,60,4,0,Safe
+1983,Neha Reddy,EEE,5,96,97,5,2,Safe
+1984,Girish Verma,IT,5,90,61,2,2,Safe
+1985,Abhishek Mathur,EEE,5,92,29,2,0,Safe
+1986,Suman Chopra,CSE,5,78,76,1,1,Safe
+1987,Irfan Malhotra,IT,5,80,75,3,0,Safe
+1988,Bhavya Kumar,ECE,5,55,87,4,4,Medium Risk
+1989,Arjun Joshi,CSE,5,72,72,2,2,Medium Risk
+1990,Aditya Patel,CSE,5,57,90,1,0,Medium Risk
+1991,Priti Kapoor,ECE,5,97,80,2,4,Medium Risk
+1992,Aditya Sharma,EEE,5,87,43,1,4,Medium Risk
+1993,Ila Patel,EEE,5,60,89,4,4,Medium Risk
+1994,Kiran Reddy,CSE,5,98,39,1,3,Medium Risk
+1995,Ananya Sharma,EEE,5,70,39,6,5,High Risk
+1996,Karan Patel,EEE,5,70,63,2,2,Medium Risk
+1997,Siddharth Joshi,EEE,5,67,75,4,3,Medium Risk
+1998,Rohit Patel,EEE,5,74,65,1,3,Medium Risk
+1999,Ritu Bhat,ECE,5,62,61,3,0,Medium Risk
+2000,Divya Reddy,CSE,5,50,88,4,0,Medium Risk
